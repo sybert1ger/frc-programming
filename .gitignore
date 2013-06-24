@@ -1,0 +1,8 @@
+_site/*
+### vim ###
+.*.s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
+.project

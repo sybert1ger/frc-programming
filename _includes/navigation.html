@@ -1,0 +1,27 @@
+{% for course in site.courses %}
+    {% if page.url contains course.base %}
+        <h3>{{ course.course }}</h3>
+        <ul class="nav nav-list">
+            {% assign a = nil %}
+            {% if page.url contains course.url %}
+                {% assign a = 'active' %}
+            {% endif %}
+            <li class="{{ a }}"><a href="{{ course.url }}">Home</a></li>
+            <li><a href="{{ course.base }}/outline.pdf">Outline</a></li>
+            <li class="nav-header">Content</li>
+            <li class="divider"></li>
+            {% for group in course.groups %}
+                <li class="nav-header">{{ group.group }}</li>
+                {% for unit in group.units %}
+                    {% assign current = nil %}
+                    {% if page.url contains unit.url %}
+                        {% assign current = 'active' %}
+                    {% endif %}
+                    <li class="{{ current }}"><a href="{{ unit.url }}">{{ unit.unit }}</a></li>
+                {% endfor %}
+            {% endfor %}
+            <li class="divider"></li>
+            <li><a href="/help">Help</a></li>
+        </ul>
+    {% endif %}
+{% endfor %}

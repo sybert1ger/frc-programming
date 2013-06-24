@@ -1,0 +1,31 @@
+{% for course in site.courses %}
+    {% if page.url contains course.base %}
+        <ul class="pager">
+            {% if page.url contains course.url %}
+                <li>
+                    <a class="btn-primary" href="{{ course.groups[0].units[0].url }}">Begin</a>
+                </li>
+            {% else %}
+                {% assign p = course.url %}
+                {% for group in course.groups %}
+                    {% for unit in group.units %}
+                        {% if n %}
+                            <li>
+                                <a href="{{ unit.url }}">Next</a>
+                            </li>
+                            {% assign n = null %}
+                        {% endif %}
+                        {% if page.url contains unit.url %}
+                            <li>
+                                <a href="{{ p }}">Previous</a>
+                            </li>
+                            {% assign n = unit.url %}
+                        {% else %}
+                            {% assign p = unit.url %}
+                        {% endif %}
+                    {% endfor %}
+                {% endfor %}
+            {% endif %}
+        </ul>
+    {% endif %}
+{% endfor %}
