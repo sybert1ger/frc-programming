@@ -1,12 +1,7 @@
-import glob, re, yaml
-print("courses:"),
-for x in sorted(glob.glob("courses/*")):
-    print "\n-\n    course:", re.compile("\/(.+)").search(x).group(1)
-    print "    base: /" + x.replace(" ", "%20")
-    print "    url: /" + x.replace(" ", "%20") + "/home"
-    
+def getyaml(file, key):
+    import yaml
     data = None
-    with open (x + "/home.md", "r") as myfile:
+    with open (file, "r") as myfile:
         data=myfile.read()
     data = data[:data[3:].index("---")+6]
     
@@ -14,15 +9,39 @@ for x in sorted(glob.glob("courses/*")):
     for doc in y:
         if doc != None:
             for k,v in doc.items():
-                if k == "description":
-                    print "    desc:", v
+                if k == key:
+                    return v
+def unCamel(s):
+    r = re.compile("([a-zA-Z][a-z]*)")
+    name = ""
+    if r.search(s) == None:
+        name = s
+    else:
+        for g in r.findall(s):
+            name += g
+            if len(g) > 1:
+                name += " "
+        if name[len(name) - 1] == " ":
+            name = name[:len(name) - 1]
+    return name
+
+import glob, re
+print("courses:"),
+for x in sorted(glob.glob("courses/*")):
+    print "\n-\n    course:", getyaml(x + "/home.md", "title")
+    print "    base: /" + x
+    print "    url: /" + x + "/home"
+    desc = getyaml(x + "/home.md", "description")
+    if desc != None:
+        print "    desc:", desc
     
     groups = []
     for i in sorted(glob.glob(x + "/*")):
         if re.compile(x.replace("/", "\\/") + "\/\d").search(i) != None:
+            name = unCamel(i[i.index("-") + 1:])
             groups.append([
               int(re.compile(x.replace("/", "\\/") + "\/([\d])").search(i).groups()[0]),
-              i[i.index(" - ") + 3:],
+              name,
               i
             ])
     if len(groups) > 0:
@@ -34,13 +53,12 @@ for x in sorted(glob.glob("courses/*")):
                 units = []
                 for c in sorted(glob.glob(g[2] + "/*")):
                     if re.compile(g[2].replace("/", "\\/") + "\/\d").search(c) != None:
-                        after = c[len(g[2]):]
-                        after = after[after.index(" - ") + 3:]
-                        after = after[:after.rfind(".")]
+                        title = getyaml(c, "title")
+
                         units.append([
                             int(re.compile(g[2].replace("/", "\\/") + "\/([\d])").search(c).groups()[0]),
-                            after,
-                            "/" + c[:c.rfind(".")].replace(" ", "%20")
+                            title,
+                            "/" + c[:c.rfind(".")]
                         ])
                 
                 if len(units) > 0:

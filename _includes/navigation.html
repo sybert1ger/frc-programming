@@ -1,11 +1,9 @@
-{% assign url = page.url | url_escape %}
 {% for course in site.courses %}
-    {{ url }} - {{ course.base }}
-    {% if url contains course.base %}
+    {% if page.url contains course.base %}
         <h3>{{ course.course }}</h3>
         <ul class="nav nav-list">
             {% assign a = nil %}
-            {% if url contains course.url %}
+            {% if page.url contains course.url %}
                 {% assign a = 'active' %}
             {% endif %}
             <li class="{{ a }}"><a href="{{ course.url }}">Home</a></li>
@@ -16,7 +14,7 @@
                 <li class="nav-header">{{ group.group }}</li>
                 {% for unit in group.units %}
                     {% assign current = nil %}
-                    {% if url contains unit.url %}
+                    {% if page.url contains unit.url %}
                         {% assign current = 'active' %}
                     {% endif %}
                     <li class="{{ current }}"><a href="{{ unit.url }}">{{ unit.unit }}</a></li>
