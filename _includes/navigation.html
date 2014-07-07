@@ -1,5 +1,6 @@
 {% assign url = page.url | url_escape %}
 {% for course in site.courses %}
+    {{ url }} - {{ course.base }}
     {% if url contains course.base %}
         <h3>{{ course.course }}</h3>
         <ul class="nav nav-list">
