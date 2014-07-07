@@ -1,7 +1,8 @@
+{% assign url = page.url | url_escape %}
 {% for course in site.courses %}
-    {% if page.url contains course.base %}
+    {% if url contains course.base %}
         <ul class="pager">
-            {% if page.url contains course.url %}
+            {% if url contains course.url %}
                 <li>
                     <a class="btn-primary" href="{{ course.groups[0].units[0].url }}">Begin</a>
                 </li>
@@ -15,7 +16,7 @@
                             </li>
                             {% assign n = null %}
                         {% endif %}
-                        {% if page.url contains unit.url %}
+                        {% if url contains unit.url %}
                             <li>
                                 <a href="{{ p }}">Previous</a>
                             </li>
