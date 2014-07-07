@@ -1,4 +1,5 @@
 {% for course in site.courses %}
+    {{ page.url }} - {{ course.base }}
     {% if page.url contains course.base %}
         <h3>{{ course.course }}</h3>
         <ul class="nav nav-list">
