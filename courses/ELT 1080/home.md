@@ -1,6 +1,7 @@
 ---
 title: ELT 1080 - Control Systems 1
 layout: coursepage
+description: Control systems course for learning the basics of control theory
 ---
 **Prerequisite:**
 

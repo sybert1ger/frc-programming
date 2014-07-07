@@ -1,6 +1,7 @@
 ---
 title: ELT 1140
 layout: coursepage
+description: Second level robotics course for more robotics and its applications
 ---
 
 **Prerequisite:**

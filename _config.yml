@@ -7,501 +7,419 @@ permalink: pretty
 markdown: rdiscount
 
 # Site Navigation
-courses:
+courses: 
+-
+    course: CSE 1010
+    base: /courses/CSE 1010
+    url: /courses/CSE 1010/home
+
 -
     course: CSE 1110
     base: /courses/CSE 1110
     url: /courses/CSE 1110/home
+    desc: Computer Science course for introductory programming and control flow
     groups:
     -
         group: Programs
         units:
         -
             unit: Programming
-            url: /courses/CSE 1110/1 - Programs/1 - Programming
+            url: courses/CSE 1110/1 - Programs/1 - Programming
         -
             unit: Languages
-            url: /courses/CSE 1110/1 - Programs/2 - Languages
+            url: courses/CSE 1110/1 - Programs/2 - Languages
         -
             unit: Libraries
-            url: /courses/CSE 1110/1 - Programs/3 - Libraries
+            url: courses/CSE 1110/1 - Programs/3 - Libraries
         -
             unit: Binary
-            url: /courses/CSE 1110/1 - Programs/4 - Binary
-
-    -
+            url: courses/CSE 1110/1 - Programs/4 - Binary
         group: Data
         units:
         -
             unit: Data Types
-            url: /courses/CSE 1110/2 - Data/1 - Data Types
+            url: courses/CSE 1110/2 - Data/1 - Data Types
         -
             unit: Variables
-            url: /courses/CSE 1110/2 - Data/2 - Variables
+            url: courses/CSE 1110/2 - Data/2 - Variables
         -
             unit: Input and Output
-            url: /courses/CSE 1110/2 - Data/3 - Input and Output
-
-    -
+            url: courses/CSE 1110/2 - Data/3 - Input and Output
         group: Basic Calculations
         units:
         -
             unit: Intro
-            url: /courses/CSE 1110/3 - Basic Calculations/1 - Intro
+            url: courses/CSE 1110/3 - Basic Calculations/1 - Intro
         -
             unit: Activity
-            url: /courses/CSE 1110/3 - Basic Calculations/2 - Activity
-
-    -
+            url: courses/CSE 1110/3 - Basic Calculations/2 - Activity
         group: Algorithms
         units:
         -
             unit: Control Flow
-            url: /courses/CSE 1110/4 - Algorithms/1 - Control Flow
+            url: courses/CSE 1110/4 - Algorithms/1 - Control Flow
         -
             unit: Functions
-            url: /courses/CSE 1110/4 - Algorithms/2 - Functions
+            url: courses/CSE 1110/4 - Algorithms/2 - Functions
         -
             unit: Input and Output
-            url: /courses/CSE 1110/4 - Algorithms/3 - Input and Output
-
-    -
+            url: courses/CSE 1110/4 - Algorithms/3 - Input and Output
         group: Calculator
         units:
         -
             unit: Intro
-            url: /courses/CSE 1110/5 - Calculator/1 - Intro
+            url: courses/CSE 1110/5 - Calculator/1 - Intro
         -
             unit: Activity
-            url: /courses/CSE 1110/5 - Calculator/2 - Activity
-
-    -
+            url: courses/CSE 1110/5 - Calculator/2 - Activity
         group: Environment
         units:
         -
             unit: Running Programs
-            url: /courses/CSE 1110/6 - Environment/1 - Running Programs
+            url: courses/CSE 1110/6 - Environment/1 - Running Programs
         -
             unit: Programming Tools
-            url: /courses/CSE 1110/6 - Environment/2 - Programming Tools
+            url: courses/CSE 1110/6 - Environment/2 - Programming Tools
         -
             unit: Debugging
-            url: /courses/CSE 1110/6 - Environment/3 - Debugging
-
-    -
+            url: courses/CSE 1110/6 - Environment/3 - Debugging
         group: FRC
         units:
         -
             unit: FRC Programming
-            url: /courses/CSE 1110/7 - FRC/1 - FRC Programming
-
-    -
-        group: Tests
-        units:
-        -
-            unit: Programs
-            url: /courses/CSE 1110/Tests/1 - Programs
-        -
-            unit: Data
-            url: /courses/CSE 1110/Tests/2 - Data
-        -
-            unit: Environment
-            url: /courses/CSE 1110/Tests/3 - Environment
-
+            url: courses/CSE 1110/7 - FRC/1 - FRC Programming
 
 -
     course: CSE 1120
     base: /courses/CSE 1120
     url: /courses/CSE 1120/home
+    desc: Computer Science course for programming systems
     groups:
     -
         group: Decisions
         units:
         -
             unit: Statements as Decisions
-            url: /courses/CSE 1120/1 - Decisions/1 - Statements as Decisions
+            url: courses/CSE 1120/1 - Decisions/1 - Statements as Decisions
         -
             unit: Edge Cases
-            url: /courses/CSE 1120/1 - Decisions/2 - Edge Cases
+            url: courses/CSE 1120/1 - Decisions/2 - Edge Cases
         -
             unit: Accuracy
-            url: /courses/CSE 1120/1 - Decisions/3 - Accuracy
+            url: courses/CSE 1120/1 - Decisions/3 - Accuracy
         -
             unit: Consistency
-            url: /courses/CSE 1120/1 - Decisions/4 - Consistency
-
-    -
+            url: courses/CSE 1120/1 - Decisions/4 - Consistency
         group: Math Functions
         units:
         -
             unit: Intro
-            url: /courses/CSE 1120/2 - Math Functions/1 - Intro
+            url: courses/CSE 1120/2 - Math Functions/1 - Intro
         -
             unit: Activity
-            url: /courses/CSE 1120/2 - Math Functions/2 - Activity
-
-    -
+            url: courses/CSE 1120/2 - Math Functions/2 - Activity
         group: Repetition
         units:
         -
             unit: Looping
-            url: /courses/CSE 1120/3 - Repetition/1 - Looping
+            url: courses/CSE 1120/3 - Repetition/1 - Looping
         -
             unit: Iteration
-            url: /courses/CSE 1120/3 - Repetition/2 - Iteration
+            url: courses/CSE 1120/3 - Repetition/2 - Iteration
         -
             unit: Repetition as a Problem Solver
-            url: /courses/CSE 1120/3 - Repetition/3 - Repetition as a Problem Solver
-
-    -
+            url: courses/CSE 1120/3 - Repetition/3 - Repetition as a Problem Solver
         group: IPO
         units:
         -
             unit: Parsing
-            url: /courses/CSE 1120/4 - IPO/1 - Parsing
+            url: courses/CSE 1120/4 - IPO/1 - Parsing
         -
             unit: Processing
-            url: /courses/CSE 1120/4 - IPO/2 - Processing
+            url: courses/CSE 1120/4 - IPO/2 - Processing
         -
             unit: Output
-            url: /courses/CSE 1120/4 - IPO/3 - Output
-
-    -
+            url: courses/CSE 1120/4 - IPO/3 - Output
         group: Debugging
         units:
         -
             unit: Errors
-            url: /courses/CSE 1120/5 - Debugging/1 - Errors
+            url: courses/CSE 1120/5 - Debugging/1 - Errors
         -
             unit: Syntax
-            url: /courses/CSE 1120/5 - Debugging/2 - Syntax
-
-    -
+            url: courses/CSE 1120/5 - Debugging/2 - Syntax
         group: Primes
         units:
         -
             unit: Intro
-            url: /courses/CSE 1120/6 - Primes/1 - Intro
+            url: courses/CSE 1120/6 - Primes/1 - Intro
         -
             unit: Activity
-            url: /courses/CSE 1120/6 - Primes/2 - Activity
+            url: courses/CSE 1120/6 - Primes/2 - Activity
 
-    -
-        group: Tests
-        units:
-        -
-            unit: Decisions
-            url: /courses/CSE 1120/Tests/1 - Decisions
-        -
-            unit: Repetition
-            url: /courses/CSE 1120/Tests/2 - Repetition
-        -
-            unit: IPO
-            url: /courses/CSE 1120/Tests/3 - IPO
-
+-
+    course: CSE 1240
+    base: /courses/CSE 1240
+    url: /courses/CSE 1240/home
 
 -
     course: ELT 1010
     base: /courses/ELT 1010
     url: /courses/ELT 1010/home
+    desc: Electronics course for introductory skills and knowledge
     groups:
     -
         group: Safety
         units:
         -
             unit: Workplace Management
-            url: /courses/ELT 1010/1 - Safety/1 - Workplace Management
+            url: courses/ELT 1010/1 - Safety/1 - Workplace Management
         -
             unit: Safe Work Practices
-            url: /courses/ELT 1010/1 - Safety/2 - Safe Work Practices
+            url: courses/ELT 1010/1 - Safety/2 - Safe Work Practices
         -
             unit: Hazard Identification and Control
-            url: /courses/ELT 1010/1 - Safety/3 - Hazard Identification and Control
+            url: courses/ELT 1010/1 - Safety/3 - Hazard Identification and Control
         -
             unit: Activity
-            url: /courses/ELT 1010/1 - Safety/4 - Activity
-
-    -
+            url: courses/ELT 1010/1 - Safety/4 - Activity
         group: Electronics
         units:
         -
             unit: Circuits
-            url: /courses/ELT 1010/2 - Electronics/1 - Circuits
+            url: courses/ELT 1010/2 - Electronics/1 - Circuits
         -
             unit: Electrical Components
-            url: /courses/ELT 1010/2 - Electronics/2 - Electrical Components
+            url: courses/ELT 1010/2 - Electronics/2 - Electrical Components
         -
             unit: Electronic Devices
-            url: /courses/ELT 1010/2 - Electronics/3 - Electronic Devices
+            url: courses/ELT 1010/2 - Electronics/3 - Electronic Devices
         -
             unit: Electronic Connections
-            url: /courses/ELT 1010/2 - Electronics/4 - Electronic Connections
-
-    -
+            url: courses/ELT 1010/2 - Electronics/4 - Electronic Connections
         group: Sensors
         units:
         -
             unit: Activity
-            url: /courses/ELT 1010/3 - Sensors/1 - Activity
-
-    -
+            url: courses/ELT 1010/3 - Sensors/1 - Activity
         group: Fabrication of Components
         units:
         -
             unit: Soldering
-            url: /courses/ELT 1010/4 - Fabrication of Components/1 - Soldering
+            url: courses/ELT 1010/4 - Fabrication of Components/1 - Soldering
         -
             unit: Application of Electronic Components
-            url: /courses/ELT 1010/4 - Fabrication of Components/2 - Application of Electronic Components
+            url: courses/ELT 1010/4 - Fabrication of Components/2 - Application of Electronic Components
         -
             unit: Analog Connections
-            url: /courses/ELT 1010/4 - Fabrication of Components/3 - Analog Connections
+            url: courses/ELT 1010/4 - Fabrication of Components/3 - Analog Connections
         -
             unit: Digital Connections
-            url: /courses/ELT 1010/4 - Fabrication of Components/4 - Digital Connections
-
-    -
+            url: courses/ELT 1010/4 - Fabrication of Components/4 - Digital Connections
         group: Soldering
         units:
         -
             unit: Activity
-            url: /courses/ELT 1010/5 - Soldering/1 - Activity
-
-    -
+            url: courses/ELT 1010/5 - Soldering/1 - Activity
         group: FRC
         units:
         -
             unit: FRC Electronics
-            url: /courses/ELT 1010/6 - FRC/1 - FRC Electronics
-
-    -
-        group: Tests
-        units:
-        -
-            unit: Safety
-            url: /courses/ELT 1010/Tests/1 - Safety
-        -
-            unit: Electronics
-            url: /courses/ELT 1010/Tests/2 - Electronics
-        -
-            unit: Fabrication of Components
-            url: /courses/ELT 1010/Tests/3 - Fabrication of Components
-
+            url: courses/ELT 1010/6 - FRC/1 - FRC Electronics
 
 -
     course: ELT 1080
     base: /courses/ELT 1080
     url: /courses/ELT 1080/home
+    desc: Control systems course for learning the basics of control theory
     groups:
     -
         group: Control System
         units:
         -
             unit: Circuits
-            url: /courses/ELT 1080/1 - Control System/1 - Circuits
+            url: courses/ELT 1080/1 - Control System/1 - Circuits
         -
             unit: Loops
-            url: /courses/ELT 1080/1 - Control System/2 - Loops
+            url: courses/ELT 1080/1 - Control System/2 - Loops
         -
             unit: Ground
-            url: /courses/ELT 1080/1 - Control System/3 - Ground
+            url: courses/ELT 1080/1 - Control System/3 - Ground
         -
             unit: Control
-            url: /courses/ELT 1080/1 - Control System/4 - Control
+            url: courses/ELT 1080/1 - Control System/4 - Control
         -
             unit: Input to Output
-            url: /courses/ELT 1080/1 - Control System/5 - Input to Output
-
-    -
+            url: courses/ELT 1080/1 - Control System/5 - Input to Output
         group: Devices
         units:
         -
             unit: Sensors
-            url: /courses/ELT 1080/2 - Devices/1 - Sensors
+            url: courses/ELT 1080/2 - Devices/1 - Sensors
         -
             unit: Processors
-            url: /courses/ELT 1080/2 - Devices/2 - Processors
+            url: courses/ELT 1080/2 - Devices/2 - Processors
         -
             unit: Actuators
-            url: /courses/ELT 1080/2 - Devices/3 - Actuators
+            url: courses/ELT 1080/2 - Devices/3 - Actuators
         -
             unit: Control
-            url: /courses/ELT 1080/2 - Devices/4 - Control
+            url: courses/ELT 1080/2 - Devices/4 - Control
         -
             unit: Measurement
-            url: /courses/ELT 1080/2 - Devices/5 - Measurement
-
-    -
+            url: courses/ELT 1080/2 - Devices/5 - Measurement
         group: Testing
         units:
         -
             unit: Measuring
-            url: /courses/ELT 1080/3 - Testing/1 - Measuring
+            url: courses/ELT 1080/3 - Testing/1 - Measuring
         -
             unit: Activity
-            url: /courses/ELT 1080/3 - Testing/2 - Activity
-
-    -
-        group: Tests
-        units:
-        -
-            unit: Control System
-            url: /courses/ELT 1080/Tests/1 - Control System
-        -
-            unit: Devices
-            url: /courses/ELT 1080/Tests/2 - Devices
-
+            url: courses/ELT 1080/3 - Testing/2 - Activity
 
 -
     course: ELT 1130
     base: /courses/ELT 1130
     url: /courses/ELT 1130/home
+    desc: Robotics course for introduction to robotics and its applications
     groups:
     -
         group: Robots
         units:
         -
             unit: Principles
-            url: /courses/ELT 1130/1 - Robots/1 - Principles
+            url: courses/ELT 1130/1 - Robots/1 - Principles
         -
             unit: Control
-            url: /courses/ELT 1130/1 - Robots/2 - Control
+            url: courses/ELT 1130/1 - Robots/2 - Control
         -
             unit: Design
-            url: /courses/ELT 1130/1 - Robots/3 - Design
+            url: courses/ELT 1130/1 - Robots/3 - Design
         -
             unit: Usage
-            url: /courses/ELT 1130/1 - Robots/4 - Usage
-
-    -
+            url: courses/ELT 1130/1 - Robots/4 - Usage
         group: Subsystems
         units:
         -
             unit: Motors
-            url: /courses/ELT 1130/2 - Subsystems/1 - Motors
+            url: courses/ELT 1130/2 - Subsystems/1 - Motors
         -
             unit: Pneumatics
-            url: /courses/ELT 1130/2 - Subsystems/2 - Pneumatics
+            url: courses/ELT 1130/2 - Subsystems/2 - Pneumatics
         -
             unit: Electronics
-            url: /courses/ELT 1130/2 - Subsystems/3 - Electronics
+            url: courses/ELT 1130/2 - Subsystems/3 - Electronics
         -
             unit: Drivetrains
-            url: /courses/ELT 1130/2 - Subsystems/4 - Drivetrains
-
-    -
+            url: courses/ELT 1130/2 - Subsystems/4 - Drivetrains
         group: Power Sources
         units:
         -
             unit: Electricity
-            url: /courses/ELT 1130/3 - Power Sources/1 - Electricity
+            url: courses/ELT 1130/3 - Power Sources/1 - Electricity
         -
             unit: Pneumatic & Hydraulic
-            url: /courses/ELT 1130/3 - Power Sources/2 - Pneumatic & Hydraulic
-
-    -
+            url: courses/ELT 1130/3 - Power Sources/2 - Pneumatic & Hydraulic
         group: Vex Robot
         units:
         -
             unit: Activity
-            url: /courses/ELT 1130/4 - Vex Robot/1 - Activity
-
-    -
+            url: courses/ELT 1130/4 - Vex Robot/1 - Activity
         group: FRC
         units:
         -
             unit: FRC
-            url: /courses/ELT 1130/5 - FRC/1 - FRC
-
-    -
-        group: Tests
-        units:
-        -
-            unit: Robotics
-            url: /courses/ELT 1130/Tests/1 - Robotics
-
+            url: courses/ELT 1130/5 - FRC/1 - FRC
 
 -
     course: ELT 1140
     base: /courses/ELT 1140
     url: /courses/ELT 1140/home
+    desc: Second level robotics course for more robotics and its applications
     groups:
     -
         group: Robots
         units:
         -
             unit: History
-            url: /courses/ELT 1140/1 - Robots/1 - History
+            url: courses/ELT 1140/1 - Robots/1 - History
         -
             unit: Industry
-            url: /courses/ELT 1140/1 - Robots/2 - Industry
+            url: courses/ELT 1140/1 - Robots/2 - Industry
         -
             unit: Power Sources
-            url: /courses/ELT 1140/1 - Robots/3 - Power Sources
-
-    -
+            url: courses/ELT 1140/1 - Robots/3 - Power Sources
         group: Programming
         units:
         -
             unit: Motor Control
-            url: /courses/ELT 1140/2 - Programming/1 - Motor Control
+            url: courses/ELT 1140/2 - Programming/1 - Motor Control
         -
             unit: Downloading
-            url: /courses/ELT 1140/2 - Programming/2 - Downloading
-
-    -
+            url: courses/ELT 1140/2 - Programming/2 - Downloading
         group: Robotic System
         units:
         -
             unit: Activity
-            url: /courses/ELT 1140/3 - Robotic System/1 - Activity
-
-    -
-        group: Tests
-        units:
-        -
-            unit: Robotics
-            url: /courses/ELT 1140/Tests/1 - Robotics
-
+            url: courses/ELT 1140/3 - Robotic System/1 - Activity
 
 -
     course: ELT 1910
     base: /courses/ELT 1910
     url: /courses/ELT 1910/home
+    desc: CTS Project for FRC team members
     groups:
     -
         group: FRC
         units:
         -
             unit: FRC
-            url: /courses/ELT 1910/1 - FRC/1 - FRC
-
-    -
+            url: courses/ELT 1910/1 - FRC/1 - FRC
         group: Kitbot
         units:
         -
             unit: Activity
-            url: /courses/ELT 1910/2 - Kitbot/1 - Activity
-
-    -
+            url: courses/ELT 1910/2 - Kitbot/1 - Activity
         group: Build Season
         units:
         -
             unit: Activity
-            url: /courses/ELT 1910/3 - Build Season/1 - Activity
+            url: courses/ELT 1910/3 - Build Season/1 - Activity
 
+-
+    course: ELT 2080
+    base: /courses/ELT 2080
+    url: /courses/ELT 2080/home
+
+-
+    course: ELT 2130
+    base: /courses/ELT 2130
+    url: /courses/ELT 2130/home
+
+-
+    course: ELT 2140
+    base: /courses/ELT 2140
+    url: /courses/ELT 2140/home
+
+-
+    course: ELT 2180
+    base: /courses/ELT 2180
+    url: /courses/ELT 2180/home
+
+-
+    course: ELT 2910
+    base: /courses/ELT 2910
+    url: /courses/ELT 2910/home
 
 -
     course: Special Projects
     base: /courses/Special Projects
     url: /courses/Special Projects/home
+    desc: Project credits for build season hours (FRC)
     groups:
     -
         group: Proposal
         units:
         -
             unit: Proposal
-            url: /courses/Special Projects/1 - Proposal/1 - Proposal
-
-
-# Site Navigation
+            url: courses/Special Projects/1 - Proposal/1 - Proposal

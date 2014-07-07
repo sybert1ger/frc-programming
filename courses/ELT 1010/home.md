@@ -1,6 +1,7 @@
 ---
 title: ELT 1010 - Electro-Assembly 1
 layout: coursepage
+description: Electronics course for introductory skills and knowledge
 ---
 **Prerequisite:**
 

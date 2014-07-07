@@ -1,6 +1,7 @@
 ---
 title: CSE 1120 - Structured Programming 2
 layout: coursepage
+description: Computer Science course for programming systems
 ---
     
 **Prerequisite:**

@@ -1,6 +1,7 @@
 ---
 title: CSE 1110 - Structured Programming 1
 layout: coursepage
+description: Computer Science course for introductory programming and control flow
 ---
     
 **Prerequisite:**

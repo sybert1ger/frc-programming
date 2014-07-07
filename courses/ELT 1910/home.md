@@ -1,6 +1,7 @@
 ---
 title: ELT 1910
 layout: coursepage
+description: CTS Project for FRC team members
 ---
 
 **Prerequisite:**

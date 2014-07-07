@@ -1,6 +1,7 @@
 ---
 title: ELT 1130
 layout: coursepage
+description: Robotics course for introduction to robotics and its applications
 ---
     
 **Prerequisite:**

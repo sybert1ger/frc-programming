@@ -1,6 +1,7 @@
 ---
 title: Special Projects
 layout: coursepage
+description: Project credits for build season hours (FRC)
 ---
 
 **Prerequisite:**
