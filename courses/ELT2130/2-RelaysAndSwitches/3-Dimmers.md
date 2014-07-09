@@ -1,3 +1,4 @@
 ---
+title: Dimmers
 layout: coursepage
 ---

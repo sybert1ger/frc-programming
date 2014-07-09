@@ -1,3 +1,4 @@
 ---
+title: Solenoids
 layout: coursepage
 ---

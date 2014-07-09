@@ -1,3 +1,4 @@
 ---
+title: Timers
 layout: coursepage
 ---

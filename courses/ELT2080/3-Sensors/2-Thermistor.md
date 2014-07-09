@@ -1,3 +1,4 @@
 ---
+title: Thermistor
 layout: coursepage
 ---

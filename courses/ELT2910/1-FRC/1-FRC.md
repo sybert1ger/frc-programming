@@ -1,3 +1,4 @@
 ---
+title: FRC
 layout: coursepage
 ---

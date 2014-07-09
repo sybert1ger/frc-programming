@@ -1,3 +1,4 @@
 ---
+title: Rectifiers
 layout: coursepage
 ---

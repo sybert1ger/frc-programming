@@ -1,3 +1,4 @@
 ---
+title: Overlays
 layout: coursepage
 ---

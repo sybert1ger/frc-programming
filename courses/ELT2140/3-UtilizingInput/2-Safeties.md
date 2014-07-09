@@ -1,3 +1,4 @@
 ---
+title: Safeties
 layout: coursepage
 ---

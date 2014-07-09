@@ -1,3 +1,4 @@
 ---
+title: Relays
 layout: coursepage
 ---

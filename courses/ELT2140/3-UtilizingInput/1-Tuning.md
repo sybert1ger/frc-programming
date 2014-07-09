@@ -1,3 +1,4 @@
 ---
+title: Tuning
 layout: coursepage
 ---

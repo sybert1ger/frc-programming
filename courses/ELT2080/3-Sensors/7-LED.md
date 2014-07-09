@@ -1,3 +1,4 @@
 ---
+title: LED
 layout: coursepage
 ---

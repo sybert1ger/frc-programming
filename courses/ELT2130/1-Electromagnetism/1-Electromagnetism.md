@@ -1,3 +1,4 @@
 ---
+title: Electromagnetism
 layout: coursepage
 ---

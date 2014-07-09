@@ -1,3 +1,4 @@
 ---
+title: Phototransistor
 layout: coursepage
 ---

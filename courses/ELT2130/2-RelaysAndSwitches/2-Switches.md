@@ -1,3 +1,4 @@
 ---
+title: Switches
 layout: coursepage
 ---

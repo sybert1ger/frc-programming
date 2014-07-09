@@ -1,3 +1,4 @@
 ---
+title: Inputs
 layout: coursepage
 ---

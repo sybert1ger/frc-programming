@@ -1,3 +1,4 @@
 ---
+title: Microprocessors
 layout: coursepage
 ---

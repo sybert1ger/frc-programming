@@ -18,71 +18,71 @@ courses:
         group: Computer Science
         units:
         -
-            unit: None
+            unit: Computer Architecture
             url: /courses/CSE1010/1-ComputerScience/1-ComputerArchitecture 
 
         -
-            unit: None
+            unit: Processing
             url: /courses/CSE1010/1-ComputerScience/2-Processing 
 
         -
-            unit: None
+            unit: Computers
             url: /courses/CSE1010/1-ComputerScience/3-Computers 
 
     -
         group: Computation
         units:
         -
-            unit: None
+            unit: Theory of Computation
             url: /courses/CSE1010/2-Computation/1-TheoryOfComputation 
 
         -
-            unit: None
+            unit: Linearity vs. Concurrency
             url: /courses/CSE1010/2-Computation/2-LinearityVSConcurrency 
 
     -
         group: Programming
         units:
         -
-            unit: None
+            unit: Software Engineering
             url: /courses/CSE1010/3-Programming/1-SoftwareEngineering 
 
         -
-            unit: None
+            unit: Flowchart Activity
             url: /courses/CSE1010/3-Programming/2-FlowchartActivity 
 
     -
         group: Information Technology
         units:
         -
-            unit: None
+            unit: Programming Languages
             url: /courses/CSE1010/4-InformationTechnology/1-ProgrammingLanguages 
 
         -
-            unit: None
+            unit: Commercial Technology
             url: /courses/CSE1010/4-InformationTechnology/2-CommercialTechnology 
 
         -
-            unit: None
+            unit: Deployment
             url: /courses/CSE1010/4-InformationTechnology/3-Deployment 
 
         -
-            unit: None
+            unit: Networks
             url: /courses/CSE1010/4-InformationTechnology/4-Networks 
 
     -
         group: Algorithms And Data Structure
         units:
         -
-            unit: None
+            unit: Algorithms
             url: /courses/CSE1010/5-AlgorithmsAndDataStructure/1-Algorithms 
 
         -
-            unit: None
+            unit: Analysis of Algorithms
             url: /courses/CSE1010/5-AlgorithmsAndDataStructure/2-AnalysisOfAlgorithms 
 
         -
-            unit: None
+            unit: Data Structures
             url: /courses/CSE1010/5-AlgorithmsAndDataStructure/3-DataStructures 
 
 
@@ -287,67 +287,67 @@ courses:
         group: Robotics
         units:
         -
-            unit: None
+            unit: Programming in Robotics
             url: /courses/CSE1240/1-Robotics/1-ProgrammingInRobotics 
 
         -
-            unit: None
+            unit: Structured Programming
             url: /courses/CSE1240/1-Robotics/2-StructuredProgramming 
 
         -
-            unit: None
+            unit: Control Systems
             url: /courses/CSE1240/1-Robotics/3-ControlSystems 
 
     -
         group: Embedded Systems
         units:
         -
-            unit: None
+            unit: Embedded Systems
             url: /courses/CSE1240/2-EmbeddedSystems/1-EmbeddedSystems 
 
         -
-            unit: None
+            unit: Microprocessors
             url: /courses/CSE1240/2-EmbeddedSystems/2-Microprocessors 
 
         -
-            unit: None
+            unit: System on a Chip (FPGA & ASIC)
             url: /courses/CSE1240/2-EmbeddedSystems/3-SystemOnAChip 
 
     -
         group: Robotic Control
         units:
         -
-            unit: None
+            unit: Signals
             url: /courses/CSE1240/3-RoboticControl/1-Signals 
 
     -
         group: Environment
         units:
         -
-            unit: None
+            unit: Programming Language
             url: /courses/CSE1240/4-Environment/1-ProgrammingLanguage 
 
         -
-            unit: None
+            unit: Virtual Machine, Machine Code and Efficiency
             url: /courses/CSE1240/4-Environment/2-VirtualMachine,MachineCodeAndEfficiency 
 
         -
-            unit: None
+            unit: Deployment
             url: /courses/CSE1240/4-Environment/3-Deployment 
 
     -
         group: Input Output And Programming Methodology
         units:
         -
-            unit: None
+            unit: Control Loops
             url: /courses/CSE1240/5-Input,OutputAndProgrammingMethodology/1-ControlLoops 
 
         -
-            unit: None
+            unit: PID Control
             url: /courses/CSE1240/5-Input,OutputAndProgrammingMethodology/2-PIDControl 
 
         -
-            unit: None
+            unit: Linear Adjustment
             url: /courses/CSE1240/5-Input,OutputAndProgrammingMethodology/3-LinearAdjustment 
 
 
@@ -653,100 +653,100 @@ courses:
         group: Power
         units:
         -
-            unit: None
+            unit: Power Supplies
             url: /courses/ELT2080/1-Power/1-PowerSupplies 
 
         -
-            unit: None
+            unit: Ground, Floating and Isolated Systems
             url: /courses/ELT2080/1-Power/2-Ground,FloatingAndIsolatedSystems 
 
         -
-            unit: None
+            unit: AC/DC and Semiconductors
             url: /courses/ELT2080/1-Power/3-ACDCAndSemiconductors 
 
         -
-            unit: None
+            unit: Ohm's Law
             url: /courses/ELT2080/1-Power/4-Ohm'sLaw 
 
     -
         group: Semiconductors
         units:
         -
-            unit: None
+            unit: Rectifiers
             url: /courses/ELT2080/2-Semiconductors/1-Rectifiers 
 
         -
-            unit: None
+            unit: Unijunction Transistors
             url: /courses/ELT2080/2-Semiconductors/2-UnijunctionTransistors 
 
         -
-            unit: None
+            unit: Triac and Diac
             url: /courses/ELT2080/2-Semiconductors/3-TriacAndDiac 
 
         -
-            unit: None
+            unit: Field Effect Transistors
             url: /courses/ELT2080/2-Semiconductors/4-FieldEffectTransistors 
 
         -
-            unit: None
+            unit: Timers
             url: /courses/ELT2080/2-Semiconductors/5-Timers 
 
         -
-            unit: None
+            unit: Operational Amplifiers
             url: /courses/ELT2080/2-Semiconductors/6-OperationalAmplifiers 
 
         -
-            unit: None
+            unit: Solid State Relays
             url: /courses/ELT2080/2-Semiconductors/7-SolidStateRelays 
 
     -
         group: Sensors
         units:
         -
-            unit: None
+            unit: Open and Closed Control Systems
             url: /courses/ELT2080/3-Sensors/1-OpenAndClosedControlSystems 
 
         -
-            unit: None
+            unit: Proximity Switches
             url: /courses/ELT2080/3-Sensors/10-ProximitySwitches 
 
         -
-            unit: None
+            unit: Thermistor
             url: /courses/ELT2080/3-Sensors/2-Thermistor 
 
         -
-            unit: None
+            unit: Pressure Sensor
             url: /courses/ELT2080/3-Sensors/3-PressureSensor 
 
         -
-            unit: None
+            unit: Photoelectric Transducers
             url: /courses/ELT2080/3-Sensors/4-PhotoelectricTransducers 
 
         -
-            unit: None
+            unit: Hall Effect
             url: /courses/ELT2080/3-Sensors/5-HallEffect 
 
         -
-            unit: None
+            unit: Optocouplers
             url: /courses/ELT2080/3-Sensors/6-Optocouplers 
 
         -
-            unit: None
+            unit: LED
             url: /courses/ELT2080/3-Sensors/7-LED 
 
         -
-            unit: None
+            unit: Photodiode
             url: /courses/ELT2080/3-Sensors/8-Photodiode 
 
         -
-            unit: None
+            unit: Phototransistor
             url: /courses/ELT2080/3-Sensors/9-Phototransistor 
 
     -
         group: Project
         units:
         -
-            unit: None
+            unit: Vehicle Project
             url: /courses/ELT2080/4-Project/1-VehicleProject 
 
 
@@ -760,51 +760,51 @@ courses:
         group: Electromagnetism
         units:
         -
-            unit: None
+            unit: Electromagnetism
             url: /courses/ELT2130/1-Electromagnetism/1-Electromagnetism 
 
     -
         group: Relays And Switches
         units:
         -
-            unit: None
+            unit: Relays
             url: /courses/ELT2130/2-RelaysAndSwitches/1-Relays 
 
         -
-            unit: None
+            unit: Switches
             url: /courses/ELT2130/2-RelaysAndSwitches/2-Switches 
 
         -
-            unit: None
+            unit: Dimmers
             url: /courses/ELT2130/2-RelaysAndSwitches/3-Dimmers 
 
         -
-            unit: None
+            unit: Solenoids
             url: /courses/ELT2130/2-RelaysAndSwitches/4-Solenoids 
 
     -
         group: Circuits
         units:
         -
-            unit: None
+            unit: Constructing Circuits
             url: /courses/ELT2130/3-Circuits/1-ConstructingCircuits 
 
         -
-            unit: None
+            unit: System Diagrams
             url: /courses/ELT2130/3-Circuits/2-SystemDiagrams 
 
     -
         group: Project
         units:
         -
-            unit: None
+            unit: Custom Project
             url: /courses/ELT2130/4-Project/1-CustomProject 
 
     -
         group: Control Devices
         units:
         -
-            unit: None
+            unit: Pros and Cons of Magnetic Control Devices
             url: /courses/ELT2130/5-ControlDevices/1-ProsAndConsMagneticControlDevices 
 
 
@@ -818,52 +818,52 @@ courses:
         group: Sensor Devices
         units:
         -
-            unit: None
+            unit: Photoelectric
             url: /courses/ELT2140/1-SensorDevices/1-Photoelectric 
 
         -
-            unit: None
+            unit: Sound
             url: /courses/ELT2140/1-SensorDevices/2-Sound 
 
         -
-            unit: None
+            unit: Tactile
             url: /courses/ELT2140/1-SensorDevices/3-Tactile 
 
         -
-            unit: None
+            unit: Proximity
             url: /courses/ELT2140/1-SensorDevices/4-Proximity 
 
         -
-            unit: None
+            unit: Thermal
             url: /courses/ELT2140/1-SensorDevices/5-Thermal 
 
     -
         group: Control Systems
         units:
         -
-            unit: None
+            unit: Flowcharts
             url: /courses/ELT2140/2-ControlSystems/1-Flowcharts 
 
         -
-            unit: None
+            unit: Sensor Feedback
             url: /courses/ELT2140/2-ControlSystems/2-SensorFeedback 
 
     -
         group: Utilizing Input
         units:
         -
-            unit: None
+            unit: Tuning
             url: /courses/ELT2140/3-UtilizingInput/1-Tuning 
 
         -
-            unit: None
+            unit: Safeties
             url: /courses/ELT2140/3-UtilizingInput/2-Safeties 
 
     -
         group: Project
         units:
         -
-            unit: None
+            unit: Automated Robotic Movement Project
             url: /courses/ELT2140/4-Project/1-AutomatedRoboticMovementProject 
 
 
@@ -877,48 +877,48 @@ courses:
         group: Simulation
         units:
         -
-            unit: None
+            unit: Virtual Machines
             url: /courses/ELT2180/1-Simulation/1-VirtualMachines 
 
         -
-            unit: None
+            unit: API Spoofing
             url: /courses/ELT2180/1-Simulation/2-APISpoofing 
 
         -
-            unit: None
+            unit: Overlays
             url: /courses/ELT2180/1-Simulation/3-Overlays 
 
     -
         group: Movement And Control
         units:
         -
-            unit: None
+            unit: Signals
             url: /courses/ELT2180/2-MovementAndControl/1-Signals 
 
         -
-            unit: None
+            unit: Controlling Voltage
             url: /courses/ELT2180/2-MovementAndControl/2-ControllingVoltage 
 
     -
         group: Processes
         units:
         -
-            unit: None
+            unit: Deployment
             url: /courses/ELT2180/3-Processes/1-Deployment 
 
         -
-            unit: None
+            unit: Processing
             url: /courses/ELT2180/3-Processes/2-Processing 
 
         -
-            unit: None
+            unit: Signal Decoding
             url: /courses/ELT2180/3-Processes/3-SignalDecoding 
 
     -
         group: Project
         units:
         -
-            unit: None
+            unit: Simulation Project
             url: /courses/ELT2180/4-Project/1-SimulationProject 
 
 
@@ -932,21 +932,21 @@ courses:
         group: FRC
         units:
         -
-            unit: None
+            unit: FRC
             url: /courses/ELT2910/1-FRC/1-FRC 
 
     -
         group: Build Season
         units:
         -
-            unit: None
+            unit: Build Season
             url: /courses/ELT2910/2-BuildSeason/1-BuildSeason 
 
     -
         group: Design Writeup
         units:
         -
-            unit: None
+            unit: Design Writeup
             url: /courses/ELT2910/3-DesignWriteup/1-Project 
 
 

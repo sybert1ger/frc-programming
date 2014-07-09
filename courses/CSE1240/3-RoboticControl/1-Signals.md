@@ -1,3 +1,4 @@
 ---
+title: Signals
 layout: coursepage
 ---

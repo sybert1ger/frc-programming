@@ -1,3 +1,4 @@
 ---
+title: Tactile
 layout: coursepage
 ---

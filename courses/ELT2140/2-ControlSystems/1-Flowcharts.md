@@ -1,3 +1,4 @@
 ---
+title: Flowcharts
 layout: coursepage
 ---

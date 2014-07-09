@@ -1,3 +1,4 @@
 ---
+title: Optocouplers
 layout: coursepage
 ---

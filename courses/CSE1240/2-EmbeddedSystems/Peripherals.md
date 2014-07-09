@@ -1,3 +1,4 @@
 ---
+title: Peripherals
 layout: coursepage
 ---

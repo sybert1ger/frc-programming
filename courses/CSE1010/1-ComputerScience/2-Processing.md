@@ -1,3 +1,4 @@
 ---
+title: Processing
 layout: coursepage
 ---
