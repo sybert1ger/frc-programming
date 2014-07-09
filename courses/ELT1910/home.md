@@ -1,5 +1,5 @@
 ---
-title: ELT 1910
+title: ELT 1910 - ELT Project A
 layout: coursepage
 description: CTS Project for FRC team members
 ---

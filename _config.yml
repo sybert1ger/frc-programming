@@ -361,7 +361,7 @@ courses:
 
 
 -
-    course: ELT 1130
+    course: ELT 1130 - Robotics 1
     base: /courses/ELT1130
     url: /courses/ELT1130/home
     desc: Robotics course for introduction to robotics and its applications
@@ -432,7 +432,7 @@ courses:
 
 
 -
-    course: ELT 1140
+    course: ELT 1140 - Robotics Applications
     base: /courses/ELT1140
     url: /courses/ELT1140/home
     desc: Second level robotics course for more robotics and its applications
@@ -473,7 +473,7 @@ courses:
 
 
 -
-    course: ELT 1910
+    course: ELT 1910 - ELT Project A
     base: /courses/ELT1910
     url: /courses/ELT1910/home
     desc: CTS Project for FRC team members

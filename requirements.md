@@ -9,6 +9,8 @@ Errors here may result when curriculum is changed. Please be dilligent about che
 
 The materials listed are for *one student*. Multiply as needed.
 
+### CSE 1010
+
 ### CSE 1110
 - Python 2.7
 - Windows, Mac OSX or GNU/Linux
@@ -16,6 +18,8 @@ The materials listed are for *one student*. Multiply as needed.
 ### CSE 1120
 - Python 2.7
 - Windows, Mac OSX or GNU/Linux
+
+### CSE 1240
 
 ### ELT 1010
 - 1 5V Battery or Power Generator
@@ -47,6 +51,16 @@ The materials listed are for *one student*. Multiply as needed.
 
 ### ELT 1910
 - FRC Kit of Parts (Included in FRC registration)
+
+### ELT 2080
+
+### ELT 2130
+
+### ELT 2140
+
+### ELT 2180
+
+### ELT 2910
 
 ### Special Projects
 - None
