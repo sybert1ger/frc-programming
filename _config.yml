@@ -12,6 +12,18 @@ courses:
     course: CSE 1010 - Computer Science 1
     base: /courses/CSE1010
     url: /courses/CSE1010/home
+    groups:
+
+    -
+        group: Computer Science
+    -
+        group: Computation
+    -
+        group: Programming
+    -
+        group: Information Technology
+    -
+        group: Algorithms Data Structure
 
 -
     course: CSE 1110 - Structured Programming 1
@@ -208,6 +220,18 @@ courses:
     course: CSE 1240 - Robotics Programming 1
     base: /courses/CSE1240
     url: /courses/CSE1240/home
+    groups:
+
+    -
+        group: Robotics
+    -
+        group: Embedded Systems
+    -
+        group: Robotic Control
+    -
+        group: Environment
+    -
+        group: Input Output Programming Methodology
 
 -
     course: ELT 1010 - Electro-Assembly 1
@@ -505,26 +529,76 @@ courses:
     course: ELT 2080 - Control Systems 2
     base: /courses/ELT2080
     url: /courses/ELT2080/home
+    groups:
+
+    -
+        group: Power
+    -
+        group: Semiconductors
+    -
+        group: Sensors
+    -
+        group: Project
 
 -
     course: ELT 2130 - Magnetic Control Devices
     base: /courses/ELT2130
     url: /courses/ELT2130/home
+    groups:
+
+    -
+        group: Electromagnetism
+    -
+        group: Relays Switches
+    -
+        group: Circuits
+    -
+        group: Project
+    -
+        group: Control Devices
 
 -
     course: ELT 2140 - Robotics 2
     base: /courses/ELT2140
     url: /courses/ELT2140/home
+    groups:
+
+    -
+        group: Sensor Devices
+    -
+        group: Control Systems
+    -
+        group: Utilizing Input
+    -
+        group: Project
 
 -
     course: ELT 2180 - Process Control
     base: /courses/ELT2180
     url: /courses/ELT2180/home
+    groups:
+
+    -
+        group: Simulation
+    -
+        group: Movement Control
+    -
+        group: Processes
+    -
+        group: Project
 
 -
     course: ELT 2910 - ELT Project B
     base: /courses/ELT2910
     url: /courses/ELT2910/home
+    groups:
+
+    -
+        group: FRC
+    -
+        group: Build Season
+    -
+        group: Design Writeup
 
 -
     course: Special Projects
@@ -539,4 +613,5 @@ courses:
         -
             unit: FRC Team Member Special Projects Proposal
             url: /courses/SpecialProjects/1-Proposal/1-Proposal 
+
 
