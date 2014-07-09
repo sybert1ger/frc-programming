@@ -17,7 +17,7 @@ If this website has any glitches, bugs or just anything that doesn't look right,
 
 For other inquiries (spelling mistakes, errors), email [Joel](mailto:joel@frcwest.com)
 
-## <a id="technical">Technical details</a>
+## Technical details
 For those of you who are interested, here are the technical specs of this website.
 
 - [Git](http://git-scm.com/) as version control on [github](https://github.com/)
