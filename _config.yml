@@ -85,6 +85,17 @@ courses:
             unit: Data Structures
             url: /courses/CSE1010/5-AlgorithmsAndDataStructure/3-DataStructures 
 
+    tests:
+
+    -
+        test: Test 1 - Computer Science
+        url: /courses/CSE1010/Tests/1-ComputerScience
+    -
+        test: Test 2 - Computation
+        url: /courses/CSE1010/Tests/2-Computation
+    -
+        test: Test 3 - Programming
+        url: /courses/CSE1010/Tests/3-Programming
 
 -
     course: CSE 1110 - Structured Programming 1
@@ -186,6 +197,17 @@ courses:
             unit: FRC Programming
             url: /courses/CSE1110/7-FRC/1-FRCProgramming 
 
+    tests:
+
+    -
+        test: Test 1 - Programs
+        url: /courses/CSE1110/Tests/1-Programs
+    -
+        test: Test 2 - Data
+        url: /courses/CSE1110/Tests/2-Data
+    -
+        test: Test 3 - Environment
+        url: /courses/CSE1110/Tests/3-Environment
 
 -
     course: CSE 1120 - Structured Programming 2
@@ -276,6 +298,17 @@ courses:
             unit: Prime Numbers Activity
             url: /courses/CSE1120/6-Primes/2-Activity 
 
+    tests:
+
+    -
+        test: Test 1 - Decisions
+        url: /courses/CSE1120/Tests/1-Decisions
+    -
+        test: Test 2 - Repetition
+        url: /courses/CSE1120/Tests/2-Repetition
+    -
+        test: Test 3 - IPO
+        url: /courses/CSE1120/Tests/3-IPO
 
 -
     course: CSE 1240 - Robotics Programming 1
@@ -436,6 +469,17 @@ courses:
             unit: FRC Electronics
             url: /courses/ELT1010/6-FRC/1-FRCElectronics 
 
+    tests:
+
+    -
+        test: ELT 1010 - Test 1 - Safety
+        url: /courses/ELT1010/Tests/1-Safety
+    -
+        test: ELT 1010 - Test 2 - Electronics
+        url: /courses/ELT1010/Tests/2-Electronics
+    -
+        test: ELT 1010 - Test 3 - Fabrication of Components
+        url: /courses/ELT1010/Tests/3-FabricationofComponents
 
 -
     course: ELT 1080 - Control Systems 1
@@ -501,6 +545,14 @@ courses:
             unit: Testing / Measuring Activity
             url: /courses/ELT1080/3-Testing/2-Activity 
 
+    tests:
+
+    -
+        test: Test 1 - Control System
+        url: /courses/ELT1080/Tests/1-ControlSystem
+    -
+        test: Test 2 - Devices
+        url: /courses/ELT1080/Tests/2-Devices
 
 -
     course: ELT 1130 - Robotics 1
@@ -572,6 +624,11 @@ courses:
             unit: FRC
             url: /courses/ELT1130/5-FRC/1-FRC 
 
+    tests:
+
+    -
+        test: Test 1 - Robotics
+        url: /courses/ELT1130/Tests/1-Robotics
 
 -
     course: ELT 1140 - Robotics Applications
@@ -613,6 +670,11 @@ courses:
             unit: Robotic System Activity
             url: /courses/ELT1140/3-RoboticSystem/1-Activity 
 
+    tests:
+
+    -
+        test: Test 1 - Robotics
+        url: /courses/ELT1140/Tests/1-Robotics
 
 -
     course: ELT 1910 - ELT Project A

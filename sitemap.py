@@ -68,3 +68,14 @@ for x in sorted(glob.glob("courses/*")):
                         if u[0] == t:
                             print "        -\n            unit:", u[1]
                             print "            url:", u[2], "\n"
+
+    tests = []
+    for i in sorted(glob.glob(x + "/Tests/*")):
+        if re.compile(x.replace("/", "\\/") + "\/Tests\/\d").search(i) != None:
+            name = getyaml(i, "title")
+            tests.append([name, "/" + i[:i.rfind(".")]])
+    if len(tests) > 0:
+        print "    tests:\n"
+        for test in tests:
+            print "    -\n        test:", test[0]
+            print "        url:", test[1]

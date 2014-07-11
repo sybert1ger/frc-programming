@@ -21,6 +21,17 @@
                 {% endfor %}
             {% endfor %}
             <li class="divider"></li>
+            {% if course.tests %}
+            <li class="nav-header">Tests</li>
+            {% for test in course.tests %}
+                {% assign current = nil %}
+                {% if page.url contains unit.url %}
+                    {% assign current = 'active' %}
+                {% endif %}
+                <li class="{{ current }}"><a href="{{ test.url }}">{{ test.test }}</a></li>
+            {% endfor %}
+            <li class="divider"></li>
+            {% endif %}
             <li><a href="/help">Help</a></li>
         </ul>
     {% endif %}
