@@ -74,3 +74,5 @@ So what did we learn?
 
 ## The algorithm
 An algorithm is given an input, and returns an output. It will always (for our purposes) return the exact same output for a given input. In essence, this means that giving a list of `[2, 1, 4, 3]` will always return `[1, 2, 3, 4]` from our bubblesort algorithm.
+
+For those interested in learning more about sorting algorithms, see [this](http://aarondufour.com/?) sorting visualiser and [this](http://austingwalters.com/everyday-algorithms-pancake-sort/) interesting post about solving problems using algorithms (like flipping pancakes!)
