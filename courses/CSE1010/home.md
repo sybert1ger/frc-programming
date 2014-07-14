@@ -1,6 +1,7 @@
 ---
 title: CSE 1010 - Computer Science 1
 layout: coursepage
+description: Introduction to computer science, no programming involved
 ---
     
 **Prerequisite:**
