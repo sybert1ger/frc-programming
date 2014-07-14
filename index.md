@@ -4,6 +4,8 @@ layout: default
 
 # Courses
 
+![](/img/courses_progression.svg)
+
 {% for course in site.courses %}
 ### [{{ course.course }}]({{ course.url }})
 {% if course.desc %}
