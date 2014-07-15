@@ -20,3 +20,5 @@ If your code is very low-level, and there is nothing being run underneath, the p
 If the platform you are deploying to is complicated enough, it may actually be it's own server. In effect, the user would connect to the server and send the new files over that connection. This is a much safer option, because a disruption in connection won't necessarily break any deployment progress.
 
 It's worth noting that this method is used for the cRIO and roboRIO, and that it is highly recommended to use a wired connection to do so. Although a deployment failure will likely be a non-issue, it can be annoying to deal with slower and less reliable connections.
+
+![](/img/deploying-code.jpg)
