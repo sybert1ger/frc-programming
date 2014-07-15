@@ -1,4 +1,0 @@
----
-title: Inputs
-layout: coursepage
----
