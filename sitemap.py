@@ -1,3 +1,14 @@
+import sys
+sys.stdout = open('_config.yml', 'w')
+
+print "name: \"FRC West Curriculum\"\n\
+description: \"FRC West's Robotics Curriculum\"\n\n\
+url: http://www.frc-west.github.io\n\n\
+permalink: pretty\n\
+markdown: rdiscount\n\n\
+# Site Navigation\n\
+"
+
 def getyaml(file, key):
     import yaml
     data = None
