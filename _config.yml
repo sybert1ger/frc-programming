@@ -384,6 +384,14 @@ courses:
             unit: Linear Adjustment
             url: /courses/CSE1240/5-Input,OutputAndProgrammingMethodology/3-LinearAdjustment 
 
+    tests:
+
+    -
+        test: Test 1 - Embedded Systems
+        url: /courses/CSE1240/Tests/1-EmbeddedSystems
+    -
+        test: Test 2 - Programming
+        url: /courses/CSE1240/Tests/2-Programming
 
 -
     course: ELT 1010 - Electro-Assembly 1
