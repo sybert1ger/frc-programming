@@ -315,6 +315,7 @@ courses:
     course: CSE 1240 - Robotics Programming 1
     base: /courses/CSE1240
     url: /courses/CSE1240/home
+    desc: Programming in the context of robotics
     groups:
 
     -
