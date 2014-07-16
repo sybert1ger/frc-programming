@@ -998,6 +998,7 @@ courses:
     course: ELT 2910 - ELT Project B
     base: /courses/ELT2910
     url: /courses/ELT2910/home
+    desc: CTS Project continuation of ELT1910 (use for second build season)
     groups:
 
     -

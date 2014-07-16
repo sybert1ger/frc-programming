@@ -1,6 +1,7 @@
 ---
 title: ELT 2910 - ELT Project B
 layout: coursepage
+description: CTS Project continuation of ELT1910 (use for second build season)
 ---
     
 **Prerequisite:**
