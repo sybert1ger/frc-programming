@@ -1,4 +1,4 @@
 ---
-title: Pressure Sensor
+title: Activity
 layout: coursepage
 ---

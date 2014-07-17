@@ -1,4 +1,0 @@
----
-title: LED
-layout: coursepage
----

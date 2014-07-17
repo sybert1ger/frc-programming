@@ -723,104 +723,45 @@ courses:
     groups:
 
     -
-        group: Power
+        group: Control System
         units:
         -
-            unit: Power Supplies
-            url: /courses/ELT2080/1-Power/1-PowerSupplies 
+            unit: Power
+            url: /courses/ELT2080/1-ControlSystem/1-Power 
 
         -
-            unit: Ground, Floating and Isolated Systems
-            url: /courses/ELT2080/1-Power/2-Ground,FloatingAndIsolatedSystems 
+            unit: Circuits & Ohm's Law
+            url: /courses/ELT2080/1-ControlSystem/2-CircuitsAndOhmsLaw 
 
         -
-            unit: AC/DC and Semiconductors
-            url: /courses/ELT2080/1-Power/3-ACDCAndSemiconductors 
-
-        -
-            unit: Ohm's Law
-            url: /courses/ELT2080/1-Power/4-Ohm'sLaw 
+            unit: Control Loops
+            url: /courses/ELT2080/1-ControlSystem/3-ControlLoops 
 
     -
-        group: Semiconductors
+        group: Logic
         units:
         -
-            unit: Rectifiers
-            url: /courses/ELT2080/2-Semiconductors/1-Rectifiers 
+            unit: Logic Circuits
+            url: /courses/ELT2080/2-Logic/1-LogicCircuits 
 
         -
-            unit: Unijunction Transistors
-            url: /courses/ELT2080/2-Semiconductors/2-UnijunctionTransistors 
-
-        -
-            unit: Triac and Diac
-            url: /courses/ELT2080/2-Semiconductors/3-TriacAndDiac 
-
-        -
-            unit: Field Effect Transistors
-            url: /courses/ELT2080/2-Semiconductors/4-FieldEffectTransistors 
-
-        -
-            unit: Timers
-            url: /courses/ELT2080/2-Semiconductors/5-Timers 
-
-        -
-            unit: Operational Amplifiers
-            url: /courses/ELT2080/2-Semiconductors/6-OperationalAmplifiers 
-
-        -
-            unit: Solid State Relays
-            url: /courses/ELT2080/2-Semiconductors/7-SolidStateRelays 
+            unit: Control Loop Logic
+            url: /courses/ELT2080/2-Logic/2-ControlLoopLogic 
 
     -
-        group: Sensors
+        group: Devices
         units:
         -
-            unit: Open and Closed Control Systems
-            url: /courses/ELT2080/3-Sensors/1-OpenAndClosedControlSystems 
+            unit: Sensors
+            url: /courses/ELT2080/3-Devices/1-Sensors 
 
         -
-            unit: Proximity Switches
-            url: /courses/ELT2080/3-Sensors/10-ProximitySwitches 
+            unit: Semiconductors
+            url: /courses/ELT2080/3-Devices/2-Semiconductors 
 
         -
-            unit: Thermistor
-            url: /courses/ELT2080/3-Sensors/2-Thermistor 
-
-        -
-            unit: Pressure Sensor
-            url: /courses/ELT2080/3-Sensors/3-PressureSensor 
-
-        -
-            unit: Photoelectric Transducers
-            url: /courses/ELT2080/3-Sensors/4-PhotoelectricTransducers 
-
-        -
-            unit: Hall Effect
-            url: /courses/ELT2080/3-Sensors/5-HallEffect 
-
-        -
-            unit: Optocouplers
-            url: /courses/ELT2080/3-Sensors/6-Optocouplers 
-
-        -
-            unit: LED
-            url: /courses/ELT2080/3-Sensors/7-LED 
-
-        -
-            unit: Photodiode
-            url: /courses/ELT2080/3-Sensors/8-Photodiode 
-
-        -
-            unit: Phototransistor
-            url: /courses/ELT2080/3-Sensors/9-Phototransistor 
-
-    -
-        group: Project
-        units:
-        -
-            unit: Vehicle Project
-            url: /courses/ELT2080/4-Project/1-VehicleProject 
+            unit: Activity
+            url: /courses/ELT2080/3-Devices/3-Activity 
 
 
 -

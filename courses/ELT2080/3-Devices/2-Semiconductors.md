@@ -1,4 +1,4 @@
 ---
-title: Thermistor
+title: Semiconductors
 layout: coursepage
 ---

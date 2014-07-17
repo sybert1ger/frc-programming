@@ -1,4 +1,0 @@
----
-title: Optocouplers
-layout: coursepage
----

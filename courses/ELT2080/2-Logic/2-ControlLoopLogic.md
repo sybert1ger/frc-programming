@@ -1,4 +1,4 @@
 ---
-title: Timers
+title: Control Loop Logic
 layout: coursepage
 ---

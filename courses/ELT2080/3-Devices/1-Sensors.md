@@ -1,4 +1,4 @@
 ---
-title: Rectifiers
+title: Sensors
 layout: coursepage
 ---

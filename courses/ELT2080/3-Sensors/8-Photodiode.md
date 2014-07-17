@@ -1,4 +1,0 @@
----
-title: Photodiode
-layout: coursepage
----

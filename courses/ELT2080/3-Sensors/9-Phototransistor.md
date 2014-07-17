@@ -1,4 +1,0 @@
----
-title: Phototransistor
-layout: coursepage
----
