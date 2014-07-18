@@ -1,6 +1,7 @@
 ---
 title: ELT 2080 - Control Systems 2
 layout: coursepage
+description: Further discussion of control systems and control loops
 ---
     
 **Prerequisite:**

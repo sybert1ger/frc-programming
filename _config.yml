@@ -720,6 +720,7 @@ courses:
     course: ELT 2080 - Control Systems 2
     base: /courses/ELT2080
     url: /courses/ELT2080/home
+    desc: Further discussion of control systems and control loops
     groups:
 
     -
