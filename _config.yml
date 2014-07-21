@@ -899,10 +899,6 @@ courses:
             unit: API Spoofing
             url: /courses/ELT2180/1-Simulation/2-APISpoofing 
 
-        -
-            unit: Overlays
-            url: /courses/ELT2180/1-Simulation/3-Overlays 
-
     -
         group: Movement And Control
         units:
