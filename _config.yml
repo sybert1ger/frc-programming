@@ -911,19 +911,19 @@ courses:
             url: /courses/ELT2180/2-MovementAndControl/2-ControllingVoltage 
 
     -
-        group: Processes
+        group: Control
         units:
         -
-            unit: Deployment
-            url: /courses/ELT2180/3-Processes/1-Deployment 
+            unit: Parameters
+            url: /courses/ELT2180/3-Control/1-Parameters 
 
         -
-            unit: Processing
-            url: /courses/ELT2180/3-Processes/2-Processing 
+            unit: Algorithms
+            url: /courses/ELT2180/3-Control/2-Algorithms 
 
         -
-            unit: Signal Decoding
-            url: /courses/ELT2180/3-Processes/3-SignalDecoding 
+            unit: Feedback Loops
+            url: /courses/ELT2180/3-Control/3-FeedbackLoops 
 
     -
         group: Project
