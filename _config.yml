@@ -886,6 +886,7 @@ courses:
     course: ELT 2180 - Process Control
     base: /courses/ELT2180
     url: /courses/ELT2180/home
+    desc: Simulation of control systems; how they parameters and algorithms work
     groups:
 
     -

@@ -1,6 +1,7 @@
 ---
 title: ELT 2180 - Process Control
 layout: coursepage
+description: Simulation of control systems; how they parameters and algorithms work
 ---
     
 **Prerequisite:**
