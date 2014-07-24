@@ -789,14 +789,6 @@ courses:
             unit: Switches
             url: /courses/ELT2130/2-RelaysAndSwitches/2-Switches 
 
-        -
-            unit: Dimmers
-            url: /courses/ELT2130/2-RelaysAndSwitches/3-Dimmers 
-
-        -
-            unit: Solenoids
-            url: /courses/ELT2130/2-RelaysAndSwitches/4-Solenoids 
-
     -
         group: Circuits
         units:
@@ -812,8 +804,8 @@ courses:
         group: Project
         units:
         -
-            unit: Custom Project
-            url: /courses/ELT2130/4-Project/1-CustomProject 
+            unit: Research Project
+            url: /courses/ELT2130/4-Project/1-ResearchProject 
 
     -
         group: Control Devices

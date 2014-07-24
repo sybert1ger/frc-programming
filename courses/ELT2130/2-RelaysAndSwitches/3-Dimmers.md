@@ -1,4 +1,0 @@
----
-title: Dimmers
-layout: coursepage
----

@@ -1,4 +1,4 @@
 ---
-title: Solenoids
+title: Research Project
 layout: coursepage
 ---
