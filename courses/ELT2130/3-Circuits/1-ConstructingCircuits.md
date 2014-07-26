@@ -1,5 +1,5 @@
 ---
-title: Constructing Circuits
+title: Constructing Circuits Activity
 layout: coursepage
 ---
 
