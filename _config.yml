@@ -101,6 +101,7 @@ courses:
         url: /courses/CSE1010/Tests/3-Programming
 
     requirements:
+    -    Computer with internet access
 
 -
     course: CSE 1110 - Structured Programming 1
@@ -407,6 +408,7 @@ courses:
         url: /courses/CSE1240/Tests/2-Programming
 
     requirements:
+    -    No requirements
 
 -
     course: ELT 1010 - Electro-Assembly 1
@@ -810,6 +812,8 @@ courses:
 
 
     requirements:
+    -    Supplies for a small robotic vehicle (motors, wheels, base, battery, wires, sensors)
+    -    Computer with internet access
 
 -
     course: ELT 2130 - Magnetic Control Devices
@@ -977,6 +981,9 @@ courses:
 
 
     requirements:
+    -    Computer with internet access
+    -    Java 7+
+    -    Netbeans
 
 -
     course: ELT 2910 - ELT Project B
@@ -1008,6 +1015,7 @@ courses:
 
 
     requirements:
+    -    Registered in FRC
 
 -
     course: Special Projects
@@ -1025,3 +1033,4 @@ courses:
 
 
     requirements:
+    -    Registered in FRC

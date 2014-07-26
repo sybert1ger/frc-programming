@@ -2,6 +2,8 @@
 title: CSE 1240 - Robotics Programming 1
 layout: coursepage
 description: Programming in the context of robotics
+requirements:
+    - No requirements
 ---
     
 **Prerequisite:**
