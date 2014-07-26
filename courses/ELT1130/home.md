@@ -2,6 +2,10 @@
 title: ELT 1130 - Robotics 1
 layout: coursepage
 description: Robotics course for introduction to robotics and its applications
+requirements:
+    - 1 VEX Robotics Kit (any size/kit)
+    - Small box/basket
+    - Small balls
 ---
     
 **Prerequisite:**

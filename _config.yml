@@ -8,7 +8,8 @@ markdown: rdiscount
 
 # Site Navigation
 
-courses: 
+courses:
+
 -
     course: CSE 1010 - Computer Science 1
     base: /courses/CSE1010
@@ -98,6 +99,8 @@ courses:
     -
         test: Test 3 - Programming
         url: /courses/CSE1010/Tests/3-Programming
+
+    requirements:
 
 -
     course: CSE 1110 - Structured Programming 1
@@ -211,6 +214,10 @@ courses:
         test: Test 3 - Environment
         url: /courses/CSE1110/Tests/3-Environment
 
+    requirements:
+    -    Python 2.7
+    -    Windows, Mac OSX or GNU/Linux
+
 -
     course: CSE 1120 - Structured Programming 2
     base: /courses/CSE1120
@@ -312,6 +319,10 @@ courses:
         test: Test 3 - IPO
         url: /courses/CSE1120/Tests/3-IPO
 
+    requirements:
+    -    Python 2.7
+    -    Windows, Mac OSX or GNU/Linux
+
 -
     course: CSE 1240 - Robotics Programming 1
     base: /courses/CSE1240
@@ -394,6 +405,8 @@ courses:
     -
         test: Test 2 - Programming
         url: /courses/CSE1240/Tests/2-Programming
+
+    requirements:
 
 -
     course: ELT 1010 - Electro-Assembly 1
@@ -492,6 +505,18 @@ courses:
         test: ELT 1010 - Test 3 - Fabrication of Components
         url: /courses/ELT1010/Tests/3-FabricationofComponents
 
+    requirements:
+    -    1 5V Battery or Power Generator
+    -    1 Rotational Potentiometer rated for >= 5V (ex)
+    -    1 Hall Effect Sensor rated for >= 5V (ex)
+    -    1 Magnet
+    -    1 Multimeter
+    -    1 Soldering iron
+    -    1 Roll of solder with flux inside
+    -    1 5V Battery
+    -    ~1M of ~14 Gauge wire
+    -    2 5V rated electronic devices (lights, buzzers, etc.)
+
 -
     course: ELT 1080 - Control Systems 1
     base: /courses/ELT1080
@@ -564,6 +589,13 @@ courses:
     -
         test: Test 2 - Devices
         url: /courses/ELT1080/Tests/2-Devices
+
+    requirements:
+    -    Battery(ies) for 5-12V
+    -    1 Potentiometer (0-12V Resistance)
+    -    1 Multimeter
+    -    1 Function Generator
+    -    1 Oscilloscope
 
 -
     course: ELT 1130 - Robotics 1
@@ -641,6 +673,11 @@ courses:
         test: Test 1 - Robotics
         url: /courses/ELT1130/Tests/1-Robotics
 
+    requirements:
+    -    1 VEX Robotics Kit (any size/kit)
+    -    Small box/basket
+    -    Small balls
+
 -
     course: ELT 1140 - Robotics Applications
     base: /courses/ELT1140
@@ -687,6 +724,10 @@ courses:
         test: Test 1 - Robotics
         url: /courses/ELT1140/Tests/1-Robotics
 
+    requirements:
+    -    1 VEX Robotics Kit (capable of completing 2012-2013 game)
+    -    2012-2013 game pieces (sacks and platforms)
+
 -
     course: ELT 1910 - ELT Project A
     base: /courses/ELT1910
@@ -715,6 +756,9 @@ courses:
             unit: Build Season
             url: /courses/ELT1910/3-BuildSeason/1-Activity 
 
+
+    requirements:
+    -    FRC Kit of Parts (Included in FRC registration)
 
 -
     course: ELT 2080 - Control Systems 2
@@ -765,6 +809,8 @@ courses:
             url: /courses/ELT2080/3-Devices/3-Activity 
 
 
+    requirements:
+
 -
     course: ELT 2130 - Magnetic Control Devices
     base: /courses/ELT2130
@@ -814,6 +860,8 @@ courses:
             unit: Pros and Cons of Magnetic Control Devices
             url: /courses/ELT2130/5-ControlDevices/1-ProsAndConsMagneticControlDevices 
 
+
+    requirements:
 
 -
     course: ELT 2140 - Robotics 2
@@ -874,6 +922,8 @@ courses:
             url: /courses/ELT2140/4-Project/1-AutomatedRoboticMovementProject 
 
 
+    requirements:
+
 -
     course: ELT 2180 - Process Control
     base: /courses/ELT2180
@@ -926,6 +976,8 @@ courses:
             url: /courses/ELT2180/4-Project/1-SimulationProject 
 
 
+    requirements:
+
 -
     course: ELT 2910 - ELT Project B
     base: /courses/ELT2910
@@ -955,6 +1007,8 @@ courses:
             url: /courses/ELT2910/3-DesignWriteup/1-Project 
 
 
+    requirements:
+
 -
     course: Special Projects
     base: /courses/SpecialProjects
@@ -969,3 +1023,5 @@ courses:
             unit: FRC Team Member Special Projects Proposal
             url: /courses/SpecialProjects/1-Proposal/1-Proposal 
 
+
+    requirements:

@@ -2,6 +2,8 @@
 title: ELT 1910 - ELT Project A
 layout: coursepage
 description: CTS Project for FRC team members
+requirements:
+    - FRC Kit of Parts (Included in FRC registration)
 ---
 
 **Prerequisite:**

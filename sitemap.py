@@ -1,13 +1,13 @@
 import sys
 sys.stdout = open('_config.yml', 'w')
 
-print "name: \"FRC West Curriculum\"\n\
-description: \"FRC West's Robotics Curriculum\"\n\n\
-url: http://www.frc-west.github.io\n\n\
-permalink: pretty\n\
-markdown: rdiscount\n\n\
-# Site Navigation\n\
-"
+print('''name: \"FRC West Curriculum\"
+description: \"FRC West's Robotics Curriculum\"\n
+url: http://www.frc-west.github.io\n
+permalink: pretty
+markdown: rdiscount\n
+# Site Navigation
+''')
 
 def getyaml(file, key):
     import yaml
@@ -39,12 +39,12 @@ def unCamel(s):
 import glob, re
 print("courses:"),
 for x in sorted(glob.glob("courses/*")):
-    print "\n-\n    course:", getyaml(x + "/home.md", "title")
-    print "    base: /" + x
-    print "    url: /" + x + "/home"
+    print("\n-\n    course:", getyaml(x + "/home.md", "title"))
+    print("    base: /" + x)
+    print("    url: /" + x + "/home")
     desc = getyaml(x + "/home.md", "description")
     if desc != None:
-        print "    desc:", desc
+        print("    desc:", desc)
     
     groups = []
     for i in sorted(glob.glob(x + "/*")):
@@ -56,11 +56,11 @@ for x in sorted(glob.glob("courses/*")):
               i
             ])
     if len(groups) > 0:
-        print "    groups:\n"
+        print("    groups:\n")
     for a in range(1, len(groups) + 1):
         for g in groups:
             if g[0] == a:
-                print "    -\n        group:", g[1]
+                print("    -\n        group:", g[1])
                 units = []
                 for c in sorted(glob.glob(g[2] + "/*")):
                     if re.compile(g[2].replace("/", "\\/") + "\/\d").search(c) != None:
@@ -73,12 +73,12 @@ for x in sorted(glob.glob("courses/*")):
                         ])
                 
                 if len(units) > 0:
-                    print "        units:"
+                    print("        units:")
                 for t in range(1, len(units) + 1):
                     for u in units:
                         if u[0] == t:
-                            print "        -\n            unit:", u[1]
-                            print "            url:", u[2], "\n"
+                            print("        -\n            unit:", u[1])
+                            print("            url:", u[2], "\n")
 
     tests = []
     for i in sorted(glob.glob(x + "/Tests/*")):
@@ -86,7 +86,13 @@ for x in sorted(glob.glob("courses/*")):
             name = getyaml(i, "title")
             tests.append([name, "/" + i[:i.rfind(".")]])
     if len(tests) > 0:
-        print "    tests:\n"
+        print("    tests:\n")
         for test in tests:
-            print "    -\n        test:", test[0]
-            print "        url:", test[1]
+            print("    -\n        test:", test[0])
+            print("        url:", test[1])
+
+    print("\n    requirements:")
+    requirements = getyaml(x + "/home.md", "requirements")
+    if requirements != None:
+        for r in requirements:
+            print("    -    "+r)

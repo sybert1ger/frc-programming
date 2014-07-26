@@ -2,6 +2,9 @@
 title: CSE 1120 - Structured Programming 2
 layout: coursepage
 description: Computer Science course for programming systems
+requirements:
+    - Python 2.7
+    - Windows, Mac OSX or GNU/Linux
 ---
     
 **Prerequisite:**
