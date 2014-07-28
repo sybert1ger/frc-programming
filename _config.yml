@@ -8,8 +8,7 @@ markdown: rdiscount
 
 # Site Navigation
 
-courses:
-
+courses: 
 -
     course: CSE 1010 - Computer Science 1
     base: /courses/CSE1010
@@ -819,6 +818,7 @@ courses:
     course: ELT 2130 - Magnetic Control Devices
     base: /courses/ELT2130
     url: /courses/ELT2130/home
+    desc: Exploring electromagnetism and the devices that use its qualities
     groups:
 
     -
@@ -866,6 +866,8 @@ courses:
 
 
     requirements:
+    -    Computer with Windows, Mac or Linux
+    -    Materials needed for research project
 
 -
     course: ELT 2140 - Robotics 2
