@@ -873,6 +873,7 @@ courses:
     course: ELT 2140 - Robotics 2
     base: /courses/ELT2140
     url: /courses/ELT2140/home
+    desc: Robotic sensors, control and automation
     groups:
 
     -
