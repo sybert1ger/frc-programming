@@ -3,7 +3,7 @@ title: Computer Architecture
 layout: coursepage
 ---
 
-Computers are a very recent invention, and have proven to be one of the most influential creation of all time.
+Computers are a very recent invention, and have proven to be one of the most influential creations of all time.
 
 This course will begin to explain what computers are, what they do and how they do it. You'll begin to grasp how to make them do what you want.
 
@@ -64,7 +64,7 @@ Standing for Declare Byte, this declares a static data region. By convention, th
 
     64
     
-This indicates that you wish the byte (4 bits, binary data) as the value of 64.
+This indicates that you wish the byte (4 bits, binary data) to be the number 64 (in binary, 1000000 [more info](/courses/CSE1110/1-Programs/4-Binary/)).
 
 # Instructions
 We don't want to dive too deeply into the core of Assembly language too quickly (phew!), but before we move on you should get a feel for the kinds of instructions that a computer can handle, using x86 as an example.

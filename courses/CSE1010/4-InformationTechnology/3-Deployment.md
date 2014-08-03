@@ -3,7 +3,7 @@ title: Deployment
 layout: coursepage
 ---
 
-There are a lot of steps between writing code and having that code end up on other people's computers around the world. As a matter of fact, some very different from that code is what actually gets there.
+There are a lot of steps between writing code and having that code end up on other people's computers around the world. As a matter of fact, something very different is sent.
 
 There are different disciplines of programs and deployment, so we will go over the basics.
 

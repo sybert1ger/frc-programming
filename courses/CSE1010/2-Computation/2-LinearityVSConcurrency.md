@@ -12,9 +12,9 @@ How does it work? Let's look at two main ways of accomplishing the concurrent go
 ## Linear Threading
 *Threads* are 'processes' that are run at the same time, managed by your operating system's kernel. They go through different instructions and processing, while seemingly existing together happily.
 
-As you can imagine, most CPUs only run one instruction at a time. So how do two programs run at once? This is a concept known as prioritizing and timing.
+As you can imagine, most CPUs only run one instruction at a time. So how do two programs run at once? This is a concept involving prioritizing and timing.
 
-In reality, they do not run at the same time. Their execution is constantly being managed by the kernel. To easily imagine what this looks like, imagine a lineup for grocery store cashier. Two (or more) different people are constantly checking out, and going back to the line up to buy more from the cashier.
+In reality, they do not run at the same time. Their execution is constantly being managed by the kernel. To easily imagine what this looks like, imagine a lineup for grocery store cashier. Two (or more) different people are constantly checking out one item at a time, and going back to the line up to buy more from the cashier.
 
 ## Concurrency and multi-core
 Modern processors are equipped with multi-core processors. This means that they truly do execute two (or more) things at once.

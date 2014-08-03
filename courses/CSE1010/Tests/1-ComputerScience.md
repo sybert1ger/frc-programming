@@ -17,7 +17,7 @@ layout: coursepage
 + To have close access to computer hardware
 + To write complex programs
 
-### 3. What would the follow x86 assembly do?
+### 3. What would the following x86 assembly do?
 
     a     DB 321
     

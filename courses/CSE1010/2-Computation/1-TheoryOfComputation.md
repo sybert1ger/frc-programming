@@ -48,7 +48,7 @@ Let's make 200 into an unknown variable, and call it `n`. And wrap this entire f
 Now we have a proper function to evaluate. This function is an algorithm.
 
 #### Big O
-This is a relatively easy function to understand in Big O notation. Essentially, it will take `n` amount of steps. This is because we are adding numbers up until `n` - `n` amount of times.
+This is a relatively easy function to understand in Big O notation. Essentially, it will take `n` amount of steps. This is because we are adding numbers up until `n`, `n` amount of times.
 
 You can imagine this using an example, given that `n` is defined as `5`. Our function would do the following.
 

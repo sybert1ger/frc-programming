@@ -19,7 +19,7 @@ PCs are extremely popular, but have slowed down sales in the past 5 years. A rep
 ## Mobile Technology
 70.6% of adults aged 25-34 used smartphones in the US in 2012. This number is growing at a high rate. The evolution of mobile technology has seen steep climbs in market share.
 
-This is because of the convenience that mobile technology gives people. Experts claim that this may be the first time in the history of computing that the technology is truly adapting to our needs, instead of the opposite. In the past, it was common for people to believe that computers were more of a hassle than something that makes life easier. To now have a small device in your pocket capable of doing anything you need it to is a shift in the right direction.
+This is because of the convenience that mobile technology gives people. This may be the first time in the history of computing that the technology is truly adapting to our needs, instead of the opposite. In the past, it was common for people to believe that computers were more of a hassle than something that makes life easier. To now have a small device in your pocket capable of doing anything you need it to is a shift in the right direction.
 
 ![](http://i.bullfax.com/imgs/743e2d2ba9b24ee04424767a970e86ba45306ccd.jpg)
 

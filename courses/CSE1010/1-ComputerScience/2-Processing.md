@@ -16,17 +16,17 @@ As you can imagine, this is not a completely realistic model of how a real compu
 You can now imagine how an instruction like this would be processed.
 
     var     DB 64       ; store 64 as var
-    add     var, 10     ; Add 10 to var, store in var
+    add     var, 5      ; Add 5 to var, store in var
 
-You first see the familiar declaration of a static piece of memory, `var`. Then, addition is performed on `var` with the literal value `10`.
+You first see the familiar declaration of a static piece of memory, `var`. Then, addition is performed on `var` with the literal value `5`.
 
 The CPU would do the following when adding.
 
 1. redirect input from the `var` registry into the first byte input on the adding machine
-2. form and direct input from a value of 10 (binary: 00001010) into the second byte input on the adding machine
+2. form and direct input from a value of 10 (binary: 00000101) into the second byte input on the adding machine
 3. redirect output from the adding machine into the memory location of `var`
 
-In the end, `var` will contain 74 (binary: 01001010).
+In the end, `var` will contain 69 (binary: 1000101).
 
 Let's illustrate the idea.
 
