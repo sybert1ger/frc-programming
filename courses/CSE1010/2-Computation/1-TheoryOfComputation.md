@@ -68,7 +68,19 @@ So we would define our function using Big O notation as *`O(n)`*. This means tha
 
 Sorting algorithms are interesting because you can compare many different ways of completing the same task.
 
-![](http://algs4.cs.princeton.edu/25applications/images/sort-characteristics.png)
+<table class="table">
+    <thead>
+    <tr><th>Algorithm</th><th>Running time</th></tr>
+    </thead>
+<tbody>
+<tr><td>Selection sort</td><td>N^2</td></tr>
+<tr><td>Insertion sort</td><td>between N and N^2</td></tr>
+<tr><td>Shellsort</td><td>N^6/5</td></tr>
+<tr><td>Quicksort</td><td>N lg N</td></tr>
+<tr><td>Mergesort</td><td>N lg N</td></tr>
+<tr><td>Heapsort</td><td>N lg N</td></tr>
+</tbody>
+</table>
 
 ### P vs. NP
 We won't delve too deep into this problem, as computer scientists are still not decided about the answers. But P and NP are still good topics to understand at a basic level.

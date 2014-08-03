@@ -9,7 +9,7 @@ The "computer" is a combination. It is a sum of parts, making up something that 
 
 So you have a screen, keyboard, mouse and CPU. What else is required?
 
-![](http://www.markville.ss.yrdsb.edu.on.ca/teacher/computers/Gallery/htmlExemplars/H2Computers/assets/images/slide2/Computer%20Parts.png)
+![](/img/pc-parts.png)
 
 Think of the different parts as "utilities", things that the user can use for their own benefit at any time. Similar to the human body, certain sections are more often used than other.
 
@@ -36,7 +36,7 @@ Outputs for video and sound, these can do the processing required to make video 
 ## Software
 It's important to note that a computer is functionally useless without software. Software involves a few different layers.
 
-![](http://www.the-software-experts.com/images/e_design-layers.gif)
+![](/img/software-layers.jpg)
 
 The **operating system** is a piece of software that is very close to system level, meaning it deals with hardware directly. Examples of Operating Systems are [Windows](http://windows.microsoft.com/), [OSX](https://www.apple.com/ca/osx/), [BSD](http://www.bsd.org/), [Linux/GNU](http://www.linuxmint.com/), etc.
 
