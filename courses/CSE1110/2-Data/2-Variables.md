@@ -30,4 +30,4 @@ For example:
 To check the type of the currently set value, use `isinstance()`:
 
     if(isinstance(x, float)):
-        print("Yup, you're good")
+        print("x is a float")

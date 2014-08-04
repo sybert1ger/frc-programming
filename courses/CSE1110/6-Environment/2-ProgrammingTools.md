@@ -9,6 +9,7 @@ As a programmer, there are a variety of tools available.
 Integrated Development Environments (IDE) are programs used to create programs. They offer more than just text input. Some have auto-completion, re-factoring tools, version control support and many have debugging tools. IDEs make programming easier, faster and much more enjoyable.
 
 Popular IDEs
+
 * Python - NetBeans, PyDev, PTVS, Sublime Text
 * Java - NetBeans, IntelliJ, Eclipse
 * C - Emacs, Notepad++, NetBeans
@@ -31,6 +32,7 @@ Examples of profilers:
 When writing large projects, it can be helpful to keep track of changes made to the program, so that you can reverse those changes when needed. Version control lets you keep track of changes and versions. There are different kinds of version control (mainly *distributed version control* and *central version control*).
 
 Popular version control
+
 * [Git](http://git-scm.com/)
 * [SVN](http://subversion.apache.org/)
 * [Mercurial](http://mercurial.selenic.com/)

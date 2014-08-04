@@ -7,11 +7,11 @@ We need instructions for computers to run. But how exactly do we write these ins
 
 Programming languages are very (eerily) similar to verbal languages. The only real difference is that they are not meant to be pronounced verbally. They all have ways of saying things, special words to represent things, and a specific way of interpreting them (like a dictionary).
 
-Now, we don't mean to confuse you. A programming language's actual usage is very different from something like English. Programming languages are ways of telling the computer to do something, where verbal languages do many more things.
+Now, we don't mean to confuse you. A programming language's actual usage is very different from something like English. Programming languages are ways of telling the computer to do something, where verbal languages communicate ideas and concepts.
 
 Some key principles that most programming languages use:
 
-- Easy to read
+- Easy to read (with practice)
 - No verbose or extraneous language
 - Simple, compact and succinct
 
@@ -67,7 +67,7 @@ And here is some C code doing the exact same thing:
     
 As you can clearly see, there are some very stark differences between them.
 
-In this course, the code that you'll see is written in python. It is the easiest to understand and write for new programmers.
+In this course, the code that you'll see is written in python. It is easy to understand and write for new programmers.
 
 # Execution
 Interestingly enough, a programming language will become completely irrelevant after **compiling** a program.
@@ -78,9 +78,10 @@ Not all programming languages are directly compiled though. In fact, only 2 of t
 
 When comparing different executable files, the language they were written is completely stripped away. A C compiled program could be identical to a Haskell compiled program. It's unlikely, but the key is that executable files are not special from each other.
 
-Executable files can also usually only run on certain platforms. They usually rely on certain parts of the system to be there. That is why there are different downloads for different operating systems, even if the program is the exact same on all platforms.
+Executable files can also usually only run one platform. They usually rely on certain parts of the system to be there. That is why there are different downloads for different operating systems, even if the program is the exact same on all platforms. The platforms likely do the same things in different ways, which the program uses.
 
 ### Source vs Machine code
 
 **Source Code** = The original code written in the programming language
-**Machine Code** = The transformed code that computers can execute easily
+
+**Machine Code** = The transformed code that computers can execute easily (sometimes called assembly or binary)

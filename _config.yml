@@ -173,12 +173,12 @@ courses:
         group: Calculator
         units:
         -
-            unit: Intro to Calculator Activity
-            url: /courses/CSE1110/5-Calculator/1-Intro 
+            unit: Calculator
+            url: /courses/CSE1110/5-Calculator/2-Activity 
 
         -
             unit: Calculator Activity
-            url: /courses/CSE1110/5-Calculator/2-Activity 
+            url: /courses/CSE1110/5-Calculator/2-Calculator 
 
     -
         group: Environment

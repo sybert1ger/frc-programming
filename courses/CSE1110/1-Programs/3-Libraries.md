@@ -19,9 +19,16 @@ There are also usually programming language libraries. For example, python has a
 
 This is all known as low-level abstraction. This simply means that the hard-to-do details are taken care of for you, and you just need to provide input.
 
-You will probably be unknowingly using a lot of libraries when programming. They make everyone's life easier, because re-writing already established code is tedious and a waste of time. It's building on the shoulders of giants.
+You will probably be unknowingly using a lot of libraries when programming. They make everyone's life easier, because re-writing already established code is tedious and a waste of time. We are building on the shoulders of giants.
 
 ## Finding libraries
 Libraries are usually found online. Many libraries have been written in the past few decades, and are found for a variety of languages, platforms and locations.
 
 For python, see [UsefulModules](http://wiki.python.org/moin/UsefulModules) and the [python standard library](http://docs.python.org/2/library/) for more information.
+
+### Examples
+- [OpenSSL](http://www.openssl.org/) Cryptography library for encryption, secure connections, etc.
+- [Guava](http://code.google.com/p/guava-libraries/) Java libraries for general purposes
+- [jQuery](http://jquery.com/) Javascript library to make readable and compatible code
+- [matplotlib](http://matplotlib.org/) Charting and plotting library for python
+- [RevealJS](http://lab.hakim.se/reveal-js/#/) Presentation library in javascript

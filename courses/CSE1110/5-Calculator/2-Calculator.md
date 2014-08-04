@@ -1,9 +1,11 @@
 ---
-title: Calculator
+title: Calculator Activity
 layout: coursepage
 ---
 
-Here's is a calculator program that takes input from the user, and evaluates that result.
+Create a console calculator that takes in console input and evaluates its value. Make sure it can do addition, subtraction, multiplication and division.
+
+Here's a start
 
     def firstNumber(fullLine, symbol):
         return float(fullLine[0:fullLine.find(symbol)].strip())
@@ -45,6 +47,3 @@ Here's is a calculator program that takes input from the user, and evaluates tha
         Result = FirstNumber * SecondNumber
 
     print Result
-
-
-Try it [here](http://repl.it/WPk), press "run session".

@@ -20,18 +20,14 @@ Put this script into `script.py`, and replace the `# REPLACE` sections with code
     var3 = 12.1
     var4 = 1
     
-    
     # REPLACE - Set x1 to var1 plus var2
     print(str(var1) + " + " + str(var2) + " = " + str(x1))
-
 
     # REPLACE - Set x2 to var3 minus var2
     print(str(var3) + " - " + str(var2) + " = " + str(x2))
 
-
     # REPLACE - Set x3 to var4 multiplied by var1
     print(str(var4) + " * " + str(var1) + " = " + str(x3))
-
 
     # REPLACE - Set x4 to var3 divided by var1
     print(str(var3) + " / " + str(var1) + " = " + str(x4))

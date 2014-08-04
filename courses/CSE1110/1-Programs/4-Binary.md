@@ -17,10 +17,10 @@ So,
 
 Means
 
-    1 1
-    0 2
-    0 4
-    0 8
+    1 1's
+    0 2's
+    0 4's
+    0 8's
 
 or
 
@@ -28,7 +28,7 @@ or
     
 or
     
-    1
+    1 + 0 + 0 + 0 = 1
 
 To keep things simple, just double the last value instead of using 2^n. It will always start at 1.
 

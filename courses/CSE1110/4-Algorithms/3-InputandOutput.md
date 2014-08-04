@@ -18,4 +18,4 @@ You can see what it's doing. Nothing fancy or complex is really going on. You ca
 
 In the multiplication algorithm, `x` and `y` are the input, and the product is the output.
 
-The main fact about algorithms is that they **do not rely on other elements of the program**. They will always return the same output when given the same input.
+The main idea of algorithms is that they **do not rely on other elements of the program**. They will always return the same output when given the same input.

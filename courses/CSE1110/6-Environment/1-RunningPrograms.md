@@ -37,10 +37,12 @@ CPython is the default python bytecode interpreter. It compiles and runs python 
 ### JVM
 Arguably the most used virtual machine ever, the Java Virtual Machine is not only used for Java code. Even python code can run on the JVM!
 
-![](http://upload.wikimedia.org/wikipedia/commons/3/3a/Java_virtual_machine_architecture.svg)
+<div class="credited">
+    <a href="http://commons.wikimedia.org/wiki/File:Java_virtual_machine_architecture.svg#mediaviewer/File:Java_virtual_machine_architecture.svg"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Java_virtual_machine_architecture.svg/1200px-Java_virtual_machine_architecture.svg.png" alt="Java virtual machine architecture.svg"></a><br>"<a href="http://commons.wikimedia.org/wiki/File:Java_virtual_machine_architecture.svg#mediaviewer/File:Java_virtual_machine_architecture.svg">Java virtual machine architecture</a>" by <a href="//commons.wikimedia.org/wiki/User:Dcoetzee" title="User:Dcoetzee">Dcoetzee</a> (<a href="//commons.wikimedia.org/wiki/File:Computer-blue.svg" title="File:Computer-blue.svg">File:Computer-blue.svg</a> by OpenClipart, <a href="//commons.wikimedia.org/wiki/File:Phone-blackberry-bold.svg" title="File:Phone-blackberry-bold.svg">File:Phone-blackberry-bold.svg</a> by <a href="//commons.wikimedia.org/w/index.php?title=User:Techtoucian&amp;action=edit&amp;redlink=1" class="new" title="User:Techtoucian (page does not exist)">User:Techtoucian</a>) - <span class="int-own-work">Own work</span>. Licensed under <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" title="Creative Commons Zero, Public Domain Dedication">CC0</a> via <a href="//commons.wikimedia.org/wiki/">Wikimedia Commons</a>.
+</div>
 
 List of languages that can be compiled and run on JVM
 
-<iframe src="http://en.wikipedia.org/wiki/List_of_JVM_languages" style="width: 80%; height: 900px"></iframe>
+<iframe src="http://en.wikipedia.org/wiki/List_of_JVM_languages" style="width: 100%; height: 900px"></iframe>
 
 A virtual machine is an application that is written and compiled for multiple platforms. It runs programs written in a specific programming language or bytecode.
