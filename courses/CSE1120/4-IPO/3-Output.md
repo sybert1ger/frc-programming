@@ -11,5 +11,5 @@ But when and how do we use GUIs? Well, the question of when is still debated. Ma
 
 For now, we won't be making GUIs. The concepts of programming are better understood without the complexity of a GUI to manage. But you should be aware that they are a component of output that is very important for user interaction. 
 
-# Consistency
+### Consistency
 Remember that output needs to be consistent. This not only applies to algorithms, but your program as a whole. You've probably experienced this before - sometimes a button works and sometimes something breaks. Programs that are inconsistent when given the same input are volatile, or fragile. Typically this is a failure to deal with edge cases.

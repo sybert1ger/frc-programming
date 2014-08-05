@@ -3,7 +3,7 @@ title: Syntax
 layout: coursepage
 ---
 
-One of the most common mistakes done by new programmers is syntax errors. This is not the fault of the programmer, it is typically just innexperience. If you were to forget how exactly to perform some action, you would likely make a  syntax error.
+One of the most common mistakes done by new programmers are syntax errors. It is typically because of inexperience. If you were to forget how exactly to perform some action, you would likely make a  syntax error.
 
 Python is not ideal when catching syntax errors. Unfortunately, you will only know if your script has a syntax error when running the program. Thankfully there are tools (such as IDEs) that will find these errors before running. If you aren't using one of these tools, you will need to know how to fix syntax errors.
 

@@ -3,7 +3,7 @@ title: Accuracy
 layout: coursepage
 ---
 
-Something that happens very often to programmers (at any skill level) is loses in a program's *accuracy*. What do we mean by that though?
+Something that happens very often to programmers (at any skill level) is loses in a program's *accuracy*. What do we mean by that?
 
 Accuracy is a combination of:
 
@@ -15,7 +15,7 @@ Breaking any of these rules makes your program inaccurate, unstable and question
 
 Bugs are not some kind of fatal flaw that makes your program unusable. They are behaviours of a program that are exhibited only at times, which damage the program's reputation as usable. If some kind of input is given, and an improper output is provided, the program needs to be fixed.
 
-Do not, however, think that no programs have bugs. Don't even wonder if professional programmers make these kinds of mistakes. Everyone does. Bugs are a natural process of application development. There will be mistakes made, no matter how good and meticulous you are. This is okay.
+Do not, however, think that no programs have bugs. Everyone, including professional programmers, make these kinds of mistakes. Bugs are a natural process of application development. There will be mistakes made, no matter how good and meticulous you are. This is okay.
 
 Strategies for accuracy:
 

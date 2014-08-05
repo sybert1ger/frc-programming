@@ -15,7 +15,7 @@ or
 
 You might have used this technique. It's useful because python has this functionality built in. But what isn't revealed is what's actually happening here. It's something known as **parsing**. Parsing is actually one of the more important concepts in computer programming. Without it, a lot of our programs wouldn't function.
 
-No don't confuse parsing with conversion. We aren't simply converting a string value to a number. Let's explore what `int()` does.
+Don't confuse parsing with conversion. We aren't simply converting a string value to a number. Let's explore what `int()` does.
 
 So we have the string `'1320'`. We need to examine it and find out what number is represented. But where to start?
 

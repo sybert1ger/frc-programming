@@ -56,8 +56,8 @@ So how is a statement considered a decision? Let's look at one particular exampl
     else:
         make(simpleSupper())
 
-This, in itself is not a decision. What it is, though, it a **strategy for deciding**. This means that you can make decisions using this strategy. You'll need to start changing how you think of programs. Almost no real-life program is designed as a *decision making mechanism*. What they do is much more elegant. Programs define ways to make decisions, and **let the user give the necessary input to make the decision**.
+This, in itself is not a decision. What it is, though, it a **strategy for deciding**; meaning that you can make decisions using this strategy. Almost no real-life program is designed as a decision making mechanism. What they do is much more elegant. Programs define ways to make decisions, and let the user give the necessary input to make the decision.
 
 In our example, the user input is `myPreference()`. The result of the decision is dependant on that input.
 
-You'll notice that we don't apply any *direct* tests to `myPreference()`. This is important, because input is not only defined by being tested. Input is just *something* that can change the outcome, depending on what it is. In this case, `myPrefence()` changes `timeToMakeSupper(myPreference())` and thus affects the condition `timeUntilSupper() >= timeToMakeSupper(myPreference())`. The condition's result is indirectly related to the input. Input can directly or indirectly relate to output.
+You'll notice that we don't apply any *direct* tests to `myPreference()`. This is important, because input is does not necessarily get tested. Input is just *something* that can change the outcome of the program, depending on what it is. In this case, `myPrefence()` changes `timeToMakeSupper(myPreference())` and thus affects the condition `timeUntilSupper() >= timeToMakeSupper(myPreference())`. The condition's result is indirectly related to the input. Input can directly or indirectly relate to output.

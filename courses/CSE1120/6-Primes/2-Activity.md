@@ -8,6 +8,7 @@ Place this code snippet at the bottom of a file.
     print('press enter for next prime')
 
     i = 0
+    x = ''
     while(x == ''):
         i = next_prime(i)
         print(i)

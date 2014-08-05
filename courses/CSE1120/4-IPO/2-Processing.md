@@ -18,5 +18,5 @@ All of the seemingly intelligent instructions you provide python are in reality 
 
 So, when you're asked how a computer does so many things, you can answer "it doesn't". Most of the complicated stuff that we ask of computers is simplified before ever being given to the computer.
 
-## As Functions
+#### As Functions
 You can imagine the IPO model as a function. Functions have input (arguments), process and output (return). They are a fundamental piece of the IPO model. They can be an IPO or be part of one.

@@ -8,11 +8,11 @@ Part of the fundamental definition of algorithms is consistency. Being able to p
     def time(x):
         return getTime() * x;
 
-Although the function takes input, returns output that is reliant on the input and is completely accurate, there is something seriously wrong. Don't get us wrong, this function could be useful, but it **is not an algorithm**. It not only outlines a strategy to make a decision, it does so based on something outside of our control.
+Although the function takes input, returns output that is reliant on the input and is completely accurate, there is something seriously wrong. Don't get us wrong, this function could be useful, but it **is not a (stable) algorithm**. It not only outlines a strategy to make a decision, it does so based on something outside of our control.
 
-**An algorithm run with input `x` will always return the same result, regardless of any other factor.**.
+**A stable algorithm run with input `x` will always return the same result, regardless of any other factor.**
 
-Functions that aren't algorithms solve different kinds of problems. These problems have to do with state. Like the first example, they are reliant on some other part of the program, which has no predefined value. They are certainly useful in a lot of situations.
+Functions that aren't stable solve different kinds of problems. These problems have to do with state. Like the first example, they are reliant on some other part of the program, which has no predefined value. They are certainly useful in a lot of situations.
 
     def pow(x, y):
         return x ** y;
