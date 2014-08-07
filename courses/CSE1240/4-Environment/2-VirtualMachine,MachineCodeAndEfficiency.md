@@ -15,7 +15,7 @@ Byte code, on the other hand, can be run anywhere with a JVM. The biggest advant
 
 This all comes at a cost though - the JVM needs to be capable of doing any instruction that byte code gives it. And it's up to the JVM to be efficient at doing it.
 
-Virtual machines need to be developed for every different environment that it's run on. So, the Mac JVM could be more efficient at running copying instructions compared to the Windows JVM. The functions are standardized, but the performance is far from standardized.
+Virtual machines need to be developed for every environment that it's run on. So, the Mac JVM could be more efficient at running copying instructions compared to the Windows JVM. The functions are standardized, but the performance is far from standardized.
 
 You, as a "byte code developer", rely on the virtual machine to be well written. And this is rarely a guarantee.
 

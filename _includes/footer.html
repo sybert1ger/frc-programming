@@ -2,5 +2,23 @@
 
         <script src="/js/jquery.min.js"></script>
         <script src="/js/bootstrap.min.js"></script>
+
+<script>
+    $(document).keydown(function(e) {
+    switch(e.which) {
+        case 37: // left
+            window.location = document.getElementById('prev').href
+        break;
+        
+        case 39: // right
+            window.location = document.getElementById('next').href
+        break;
+
+        default: return; // exit this handler for other keys
+    }
+    e.preventDefault(); // prevent the default action (scroll / move caret)
+});
+</script>
+
     </body>
 </html>

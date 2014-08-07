@@ -3,7 +3,7 @@ title: PID Control
 layout: coursepage
 ---
 
-PID is one of the most discussed and used closed-loop controllers in all of robotics. It is the fundamental way to "get to a desired output". Typical use cases are:
+PID is one of the most discussed and used closed-loop controllers in all of robotics. It is the common way to "get to a desired output". Typical use cases are:
 
 - Keeping a movable object in one position
 - Moving an object to a different, set position
@@ -19,7 +19,9 @@ Because there are so many use cases, we have to use vague language. Let's look a
 ### Example
 We have a robotic arm that looks like this
 
-![](http://www.strobotics.com/r12_main.png)
+<div class="credited">
+<a href="http://commons.wikimedia.org/wiki/File:Robot_arm_model_1.png#mediaviewer/File:Robot_arm_model_1.png"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Robot_arm_model_1.png/1200px-Robot_arm_model_1.png" alt="Robot arm model 1.png"></a><br>"<a href="http://commons.wikimedia.org/wiki/File:Robot_arm_model_1.png#mediaviewer/File:Robot_arm_model_1.png">Robot arm model 1</a>" by <a href="//commons.wikimedia.org/wiki/User:NeD80" title="User:NeD80">NeD80</a> - Этот файл был создан с использованием Autodesk 3ds Max 2009 64-bit. Licensed under Public domain via <a href="//commons.wikimedia.org/wiki/">Wikimedia Commons</a>.</p>
+</div>
 
 Let's ignore the fact that it has two axises - we only care about the first joint, up and down.
 

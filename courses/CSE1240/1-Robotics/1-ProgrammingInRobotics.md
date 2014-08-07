@@ -5,7 +5,7 @@ layout: coursepage
 
 You now have a grasp of basic programming concepts and how to use them in a structured environment. We will now move on to how this fits in with robotics, and what changes in that context.
 
-We will use FRC programming as a reference for robotic programming, as it will provide a good example and prove useful in the future.
+We will use FRC programming as a reference for robotic programming, as it will provide a good example and be useful in the future.
 
 So what's different about programming robots? That question leads to a lot of other, more detailed questions like "What kind of robot?" and "What is the function of the robot?". In reality, saying "programming in robotics" is almost as valid as saying "construction of roads". You get a general idea what the goal is, but there is still a lot to be explained before you can get close to accomplishing what you want.
 
@@ -45,7 +45,7 @@ Here's a simple example of robot code using the WPILIBJ libraries (2013).
     
 `IterativeRobot` is a class definition that contains "periodic" functions - they are looped during their respective game mode every 20ms. `teleopPeriodic()` does that exactly.
 
-Joysticks is an object that gathers input from the Driverstation software - basically, it asks the laptop that is connected (through wifi) to the robot about the joysticks that are attached to it.
+Joystick is an object that gathers input from the Driverstation software - basically, it asks the laptop that is connected (through wifi) to the robot about the joysticks that are attached to it.
 
 RobotDrive is an object that controls 2 or 4 [PWM](http://en.wikipedia.org/wiki/Pulse-width_modulation) outputs that should go to speed controllers that control drive motors.
 

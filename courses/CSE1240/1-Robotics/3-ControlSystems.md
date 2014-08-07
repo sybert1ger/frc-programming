@@ -9,7 +9,7 @@ To simplify things, we'll think about the FRC control system.
 
 ![](/img/frc-control-system.jpg)
 
-We won't worry about the specifics, especially considering this layout is outdated as of 2014. We will instead talk about how there are many elements that work together to accomplish a goal.
+We won't worry about the specifics, especially considering this layout is outdated as of 2014. We will instead focus on how there are many elements that work together to accomplish a goal.
 
 Mainly, we have a power source, devices operated from that power, and regulating devices that change the operation of the actuating devices.
 
@@ -19,4 +19,4 @@ Actuators are motors, servos, solenoids, compressors, lights, etc. They perform 
 
 Regulating devices are speed controllers, relays, breakout boards, etc. They take a signal from the processor and do something about it - usually controlling the flow of electricity to an actuator.
 
-Using programming, we can control these regulating devices. To you as the programmer, forgetting about the actual mechanisms used to control the robot is dangerous. Remember at all times that you are in control of the system.
+Using programming, we can control these regulating devices. Very rarely will you directly change output of an actuator.
