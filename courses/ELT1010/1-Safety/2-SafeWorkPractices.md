@@ -19,18 +19,16 @@ Specifically,
 
 1. When working with saws, never bring hands near the blade
 2. When working with heat, always wear protective gloves
-3. When working with anything pressurised, relieve pressure when it becomes too high for the container
+3. When working with anything pressurized, relieve pressure when it becomes higher than equipment is rated for
 
 ### Apparel
-In a workplace, it is a good idea to always wear safety glasses. For more information on safety glasses, see [here](http://www.ccohs.ca/oshanswers/prevention/ppe/glasses.html).
-
-It can also be a good idea to wear steel-toed boots in machine shops.
+In a workplace, it is a good idea to always wear safety glasses. For more information on safety glasses, see [here](http://www.ccohs.ca/oshanswers/prevention/ppe/glasses.html). It can also be a good idea to wear steel-toed boots in machine shops.
 
 ### Awareness
 As much as safe equipment and apparel will help keep you safe, the best way to stay safe is being safe yourself. Being acutely aware of your surrounding is invaluable. A work space is not the place to fool around or have fun with friends in. These are serious risks to your safety, and the possibilities far outweigh the fun of fooling around.
 
-## Near Work
+### Near Work
 Even though you might not be working, being near work exposes you to the same risks as a worker. Be sure the people working are aware of your presence, and that you are required to be there. If you do not need to be in the workplace, you should *not* be there. There is no reason to risk injury by being there.
 
-## Electrical Safety
+### Electrical Safety
 For more information about safety with electronics, [this](http://www.allaboutcircuits.com/vol_1/chpt_3/1.html) site has a lot of useful information.

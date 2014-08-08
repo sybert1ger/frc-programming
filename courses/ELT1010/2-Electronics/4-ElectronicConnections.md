@@ -13,7 +13,7 @@ Wire gauge is the measurement of its diameter. This determines the amount of cur
 
 The diameter of the wire is equal to:
 
-![](http://upload.wikimedia.org/math/f/6/d/f6d1ec86b3acdec9d5af9282a34a7f0c.png "Diameter of AWG")
+**D = 0.005inch X 92^((36-n)/39) = .0127mm X 92^((36-n)/39)**
 
 As a general rule, the smaller the diameter is, the larger the gauge is. You can find the table [here](http://en.wikipedia.org/wiki/American_wire_gauge#Tables_of_AWG_wire_sizes).
 
@@ -36,14 +36,20 @@ There are standard outlets that are used most commonly for power sources, and mo
 #### USB
 The Universal Serial Bus is a standard for data and power transfer between devices. It replaces the serial port and parallel port.
 
-![](http://upload.wikimedia.org/wikipedia/commons/8/8e/USB_Front_Port.jpg "USB port")
+<div class="credited">
+<p><a href="http://commons.wikimedia.org/wiki/File:USB_Front_Port.jpg#mediaviewer/File:USB_Front_Port.jpg"><img src="http://upload.wikimedia.org/wikipedia/commons/8/8e/USB_Front_Port.jpg" alt="USB Front Port.jpg"></a><br>"<a href="http://commons.wikimedia.org/wiki/File:USB_Front_Port.jpg#mediaviewer/File:USB_Front_Port.jpg">USB Front Port</a>" by <a href="//commons.wikimedia.org/w/index.php?title=User:Wyveryx&amp;action=edit&amp;redlink=1" class="new" title="User:Wyveryx (page does not exist)">Wyveryx</a> - <span class="int-own-work">Own work</span>. Licensed under Public domain via <a href="//commons.wikimedia.org/wiki/">Wikimedia Commons</a>.</p>
+</div>
 
 #### Serial Ports
 Although they are no longer used in mainstream computing, serial ports were very important in the history of electronics. Unlike parallel ports, they transfer one bit at a time. Serial ports are still sometimes used for [VGA](http://en.wikipedia.org/wiki/Video_Graphics_Array) connections, although VGA uses a different standard than older computers.
 
-![](http://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Serial_port.jpg/320px-Serial_port.jpg "Old serial port")
+<div class="credited">
+<p><a href="http://commons.wikimedia.org/wiki/File:Serial_port.jpg#mediaviewer/File:Serial_port.jpg"><img src="http://upload.wikimedia.org/wikipedia/commons/e/ea/Serial_port.jpg" alt="Serial port.jpg" height="480" width="640"></a><br>"<a href="http://commons.wikimedia.org/wiki/File:Serial_port.jpg#mediaviewer/File:Serial_port.jpg">Serial port</a>" by Duncan Lithgow - <span class="int-own-work">Own work</span>. Licensed under Public domain via <a href="//commons.wikimedia.org/wiki/">Wikimedia Commons</a>.</p>
+</div>
 
 #### Modular Connectors
 Modular connectors are the standard used primarily by different kinds of data transfer, including telephones and [Ethernet](http://en.wikipedia.org/wiki/Ethernet) cables. There are different standards for sizes of modular connectors.
 
-![](http://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Uncrimped_rj-45_connector_close-up.jpg/320px-Uncrimped_rj-45_connector_close-up.jpg "Modular connector head")
+<div class="credited">
+<p><a href="http://commons.wikimedia.org/wiki/File:Uncrimped_rj-45_connector_close-up.jpg#mediaviewer/File:Uncrimped_rj-45_connector_close-up.jpg"><img src="http://upload.wikimedia.org/wikipedia/commons/7/78/Uncrimped_rj-45_connector_close-up.jpg" alt="Uncrimped rj-45 connector close-up.jpg" height="479" width="640"></a><br>"<a href="http://commons.wikimedia.org/wiki/File:Uncrimped_rj-45_connector_close-up.jpg#mediaviewer/File:Uncrimped_rj-45_connector_close-up.jpg">Uncrimped rj-45 connector close-up</a>" by <a href="//commons.wikimedia.org/wiki/User:Mike1024" title="User:Mike1024">Mike1024</a> - <a href="//commons.wikimedia.org/wiki/User:Mike1024" title="User:Mike1024">Mike1024</a>. Licensed under Public domain via <a href="//commons.wikimedia.org/wiki/">Wikimedia Commons</a>.</p>
+</div>

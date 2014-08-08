@@ -24,13 +24,13 @@ Part 2 - How to solder.
 
 *Fluxes are almost always included inside of solder*. Remember to look at your solder to see if you need separate flux.
 
-### Water-soluble
+#### Water-soluble
 Water soluble fluxes allow the solder to be washed with water after the process to remove the flux.
 
-### No-clean
+#### No-clean
 Fluxes that are no-clean do not *require* cleaning afterwards. That is to say that their residues are not dangerous to the solder.
 
-### Rosin
+#### Rosin
 Traditional rosin fluxes leave a **corrosive** residue, and *must be cleaned*. RMA (Rosin Mildly Activated) flux does not require cleaning (is not significantly corrosive), but it is still recommended.
 
 ## PCB Soldering
@@ -46,11 +46,3 @@ Another common problem is a *dry joint*. This usually occurs when the soldering 
 Any flux that is corrosive that isn't cleaned off after soldering can cause problems to a solder. Be sure to clean solders whenever needed.
 
 **Good joints look good**. It should be pretty intuitive to tell if a solder is good. Good joints should be silver, shiny, concave and slightly bubble-like.
-
-### Good joint
-
-![](http://store.curiousinventor.com/media/images/how_to_solder/joint_examples_good.jpg?1248414209)
-
-### Bad joint
-
-![](http://store.curiousinventor.com/media/images/how_to_solder/bad_joints.jpg?1248413767)

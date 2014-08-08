@@ -10,7 +10,7 @@ Analog signals are most often sent by using a voltage in the wire. The voltage i
 
 Unfortunately, analog signals can loose strength over distance.
 
-### Data through analog
+#### Data through analog
 Analog signals are often interpreted into a digital signal, even if it is meant to be analog. For example, a potentiometer might be used to change the volume of music. The music player needs to convert the analog voltage signal into a digital number to adjust the playback volume. Analog signals are often converted to digital numbers for compatibility's sake.
 
 ## Standard Analog Connections

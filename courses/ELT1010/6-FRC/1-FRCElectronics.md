@@ -14,6 +14,8 @@ For more information about the FRC control system, see:
 - [2013 FRC Control System](http://wpilib.screenstepslive.com/s/3120)
 - [Wiring the 2013 FRC Control System](http://wpilib.screenstepslive.com/s/3120/m/8559/l/92626-wiring-the-2013-frc-control-system)
 
+This information will be outdated for the 2015 season, but is similar enough to still be useful.
+
 ## Some Basics
 Here are some of the key things you'll need to know in FRC:
 

@@ -20,7 +20,7 @@ There are many kinds of hazards. These are a few of the most common hazards rela
 * Spills (water or otherwise); NOTE: water conducts electricity.
 
 ## Control
-Often times, controlling hazards is very easy. You should, however, always control hazards.
+Often times, controlling hazards is very easy.
 
 Controlling a hazard is about removing the cause. If there is a spill, remove the thing that is spilling. After you have removed the cause, it is easy to simply clean up.
 

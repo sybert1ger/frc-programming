@@ -3,7 +3,7 @@ title: Digital Connections
 layout: coursepage
 ---
 
-Data is the most useful and versatile language in the world. It allows devices to communicate efficiently and without any error.
+Binary data is the most useful and versatile language in the world. It allows devices to communicate efficiently and without any error.
 
 ## Digital Signal
 Unlike analog signals, digital signals have only two states - on and off. On is usually just a voltage over zero, and off is zero volts.
@@ -13,7 +13,7 @@ Digital signals are encoded in a format, which the receiver is equipped to under
 Like analog signals, digital signals can loose strength over length. Thankfully, small voltage drops aren't extremely bad for data transfer. It takes very large distances to completely loose digital signals.
 
 ### Analog through Digital
-Numbers can be represented in digital. These numbers could be interpreted by a device and sent through an analog signal, reversing a digital signal into an analog one. Example, your music is stored as a digital file on your iPod and is converted in to a analog single that is audible to the human ear.
+Numbers can be represented in digital format. These numbers could be interpreted by a device and sent through an analog signal, reversing a digital signal into an analog one. Example, your music is stored as a digital file on your iPod and is converted in to a analog single that is audible to the human ear.
 
 ## Digital Standards
 Digital standards are much different than analog ones. They concentrate on the actual data being transferred, and the connection used is rarely important. This is because of [abstraction](http://en.wikipedia.org/wiki/Abstraction_\(computer_science\)) of the components.
