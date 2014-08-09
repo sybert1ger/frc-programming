@@ -6,7 +6,7 @@ layout: coursepage
 For this activity, you will need:
 
 - Battery(ies) for 5-12V
-- 1 Potentiometer (0-12V Resistance)
+- 1 Potentiometer (any resistance)
 - 1 Multimeter
 - 1 Function Generator
 - 1 Oscilloscope

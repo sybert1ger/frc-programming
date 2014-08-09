@@ -13,6 +13,6 @@ It's probably tempting to think of the processor as a black box. Especially cons
 
 We represent an internal feedback loop in this diagram because its a very important part of processing. This model is actually closer than you would think to the real world feedback loop. Output is saved to memory, and can be used in calculating output (I and D in PID for example).
 
-Also, don't be confused about output for all the actuators being one line. This is just for convenience of space. In reality, each type of actuator most like has some kind of output mechanism that is separete from the processor. For example, *breakout boards* receive all signals of a certain type (ex. digital) and breakout into many different outputs. This simplifies the processor's job.
+Also, don't be confused about output for all the actuators being one line. This is just for convenience of space. In reality, each type of actuator most like has some kind of output mechanism that is separete from the processor. For example, *breakout boards* receive all signals of a certain type (ex. digital) and breakout into many different outputs. This simplifies the processor's direct output.
 
-Notice that the entire control system can be described as some kind of loop. Although it's certainly possible that the motor does *not* affect the sensor, most of the time it does. This creates an elegant loop of electronics. 
+Notice that the entire control system can be described as some kind of loop. Although it's certainly possible that the motor does *not* affect the sensor, most of the time it does. This creates an elegant loop. 

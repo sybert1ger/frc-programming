@@ -20,7 +20,7 @@ You might be surprised that an entire processor with memory can be constructed u
 
 ![](/img/8-bit-adder.png)
 
-The `FA` looks like this:
+The `FA` component looks like this:
 
 ![](/img/full-adder.png)
 

@@ -9,7 +9,9 @@ These devices are essential to a system, because they allow all kinds of sensors
 
 ### The DAC (Digital to Analog Converter)
 
-![](http://upload.wikimedia.org/wikipedia/commons/b/b1/8_bit_DAC.svg)
+<div class="credited">
+<p><a title="By Rober F Coughlin (Text Book: Operational Amplifiers) [Attribution], via Wikimedia Commons" href="http://commons.wikimedia.org/wiki/File%3A8_bit_DAC.svg"><img alt="8 bit DAC" src="//upload.wikimedia.org/wikipedia/commons/b/b1/8_bit_DAC.svg"/></a><br>"<a href="http://commons.wikimedia.org/wiki/File%3A8_bit_DAC.svg">8 bit DAC</a>" by <a href="//www.goodreads.com/book/show/2863096-operational-amplifiers-and-linear-integrated-circuits">Robert F Coughlin</a> - Text Book: Operational Amplifiers. Licensed under Public domain via <a href="//commons.wikimedia.org/wiki/">Wikimedia Commons</a>.</p>
+</div>
 
 The DAC is one of the building blocks of almost all modern music machines. At a basic level, DACs convert a digital signal into an analog one. In practicality, this makes speakers, screens and many other analog devices possible. These devices are necessary because of the nature of processors. Everything is dealt with in digital signals, because varying voltage isn't important to it.
 
@@ -17,11 +19,15 @@ For a speaker, however, it is. A digital audio file must be converted to the spe
 
 Ideally, a DAC will reconstruct an analog signal. Basically, this means that the signal is "smoothed".
 
-![](http://upload.wikimedia.org/wikipedia/commons/8/88/Sampled.signal.svg)
+<div class="credited">
+<p><a href="http://commons.wikimedia.org/wiki/File:Sampled.signal.svg#mediaviewer/File:Sampled.signal.svg"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Sampled.signal.svg/1200px-Sampled.signal.svg.png" alt="Sampled.signal.svg"></a><br>"<a href="http://commons.wikimedia.org/wiki/File:Sampled.signal.svg#mediaviewer/File:Sampled.signal.svg">Sampled.signal</a>". Licensed under Public domain via <a href="//commons.wikimedia.org/wiki/">Wikimedia Commons</a>.</p>
+</div>
 
 But, some simpler DACs will only directly convert a signal.
 
-![](http://upload.wikimedia.org/wikipedia/commons/1/15/Zeroorderhold.signal.svg)
+<div class="credited">
+<p><a href="http://commons.wikimedia.org/wiki/File:Zeroorderhold.signal.svg#mediaviewer/File:Zeroorderhold.signal.svg"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Zeroorderhold.signal.svg/1200px-Zeroorderhold.signal.svg.png" alt="Zeroorderhold.signal.svg"></a><br>"<a href="http://commons.wikimedia.org/wiki/File:Zeroorderhold.signal.svg#mediaviewer/File:Zeroorderhold.signal.svg">Zeroorderhold.signal</a>" by image source obtained from <a href="//en.wikipedia.org/wiki/User:Petr.adamek" class="extiw" title="en:User:Petr.adamek">en:User:Petr.adamek</a> (with permission) and previously saved as PD in PNG format. touched up a little and converted to SVG by <a href="//en.wikipedia.org/wiki/User:Rbj" class="extiw" title="en:User:Rbj">en:User:Rbj</a> - <a href="//en.wikipedia.org/wiki/Zeroorderhold.signal.svg" class="extiw" title="en:Zeroorderhold.signal.svg">en:Zeroorderhold.signal.svg</a>. Licensed under Public domain via <a href="//commons.wikimedia.org/wiki/">Wikimedia Commons</a>.</p>
+</div>
 
 As you can imagine, a DAC has very specific requirements for encoding of signals. In other words, the digital signal must adhere to a preset standard for data.
 

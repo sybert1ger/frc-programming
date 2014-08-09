@@ -8,7 +8,7 @@ Something very important to control theory that we haven't discussed is how inpu
 ## PID Control
 You may have even heard of PID before ever understanding control theory. PID is a method of output control that is used for systems with multi-direction positional or velocity systems. It comes down to having a "setpoint" - somewhere that we want the input to be.
 
-PID has one input (we'll call it `In`) and one output (`O`). We want `I` to match `O` as closely as possible.
+PID has one input (`I`) and a desired output (`O`). We want `I` to match `O` as closely as possible.
 
 PID's main attraction as a form of control is it's ability to compensate for difference. PID stands for Proportional, Integral and Differential. Don't be intimedated however, as these are pretty basic. The output will simply be a sum of these three components.
 
@@ -16,7 +16,7 @@ PID's main attraction as a form of control is it's ability to compensate for dif
 
 So let's look at each component individually.
 
-    P = Setpoint - In
+    P = Setpoint - Input
 
 Proportial is basically how far away we are from the setpoint. This lets output get smaller as we approach the setpoint.
 
@@ -24,7 +24,7 @@ I is the most complicated section here. Basically, it accumulates past errors, a
 
     D = Error - PreviousError
 
-Differential accounts for changes in error. Error is just how far the input is from the setpoint. D is used mostly to slow down the approach to the setpoint, along with P.
+Differential accounts for changes in error. Error is just how far the input is from the setpoint (exactly equal to P). D is used mostly to slow down the approach to the setpoint, along with P.
 
 Adjusting the behaviour of PID is as simple as changing 3 coefficients for the three terms. I opperates slight differently (it is divided by cI).
 
@@ -37,6 +37,6 @@ Imagine you need to heat a room to 20 degrees. You're approach is most likely th
 
     Turn on heat when temperature is less than 20.
 
-This is exactly what bang-bang does. When the input is less than the setpoint, it is set to 100%. There is only on and off.
+This is exactly what bang-bang does. When the input is less than the setpoint, output is set to 100%. There is only on and off states. It has a bonus advantage of being easier to debug.
 
 You can make variations on bang-bang if needed, but the general idea is to keep it simple. Anything without the capacity to "overshoot" a goal is ideal for bang-bang because the input will settle down at the setpoint without trouble.

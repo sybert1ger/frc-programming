@@ -3,7 +3,7 @@ title: Processors
 layout: coursepage
 ---
 
-One of the most important development in the past 100 years is the processor. This device is capable of executing simple instructions, and storing the results of those functions. This is all done electronically without any moving parts.
+One of the most important developments in the past 100 years is the processor. This device is capable of executing simple instructions, and storing the results of those functions. This is all done electronically without any moving parts.
 
 The reason we've looked at relays and logic gates is that they are the building blocks for a processor. With some circuitry to manage signals, addressing and other various jobs, we can create a processor. But why do we care?
 
@@ -15,4 +15,4 @@ Don't be confused, however. Processors are very far away from "intelligent". At 
 
 Clock speed is the frequency of instructions that are executed. A faster clock speed refers to the processor's actual "clock" that turns on and off very quickly. This on an off signal tells the processor to execute the next instruction.
 
-So how does a processor help with control systems? Mostly, it has to do with instructions. If we can used conditions and sophisticated math like PID, we can use the output to control a system better. You are much better off using PID than manually controlling a device.
+So how does a processor help with control systems? Mostly, it has to do with instructions. If we can use conditions and sophisticated math like PID, we can use the output to control a system better. You are much better off using PID than manually controlling a device.

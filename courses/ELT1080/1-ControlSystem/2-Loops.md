@@ -10,17 +10,23 @@ In hardware, a loop is a circuit that gives itself input. We'll look at one of t
 
 Imagine you need to save a value somewhere for later usage. You need to be able to change that value too. Well, you need to formulate a circuit like this:
 
-![](http://upload.wikimedia.org/wikipedia/commons/c/c6/R-S_mk2.gif)
+<div class="credited">
+<p><a href="http://commons.wikimedia.org/wiki/File:R-S_mk2.gif#mediaviewer/File:R-S_mk2.gif"><img src="http://upload.wikimedia.org/wikipedia/commons/c/c6/R-S_mk2.gif" alt="R-S mk2.gif"></a><br>"<a href="http://commons.wikimedia.org/wiki/File:R-S_mk2.gif#mediaviewer/File:R-S_mk2.gif">R-S mk2</a>" by <a href="//commons.wikimedia.org/wiki/User:Napalm_Llama" title="User:Napalm Llama">Napalm Llama</a> - Modification of Wikimedia Commons file R-S.gif (shown below). Licensed under <a href="http://creativecommons.org/licenses/by/2.0
+" title="Creative Commons Attribution 2.0
+">CC BY 2.0</a> via <a href="//commons.wikimedia.org/wiki/">Wikimedia Commons</a>.</p>
+</div>
 
 This might look confusing at first. `R` is the "reset" signal. It turns Q off. `S` is the "set" signal. It turns Q on. Q with a line on top means "not Q".
 
 Turning on S turns off the NOR gate, and provided that R is off, subsequently turns on the R NOR gate. This turns on Q and turns off NOT Q. So, in practicality, S turns on Q and turns off NOT Q. R does the same thing, but reversed (Q = OFF, NOT Q = ON).
 
-Turning both R and S turns both Q and NOT Q off. This is known as an "invalid" case because it does not follow the definition of NOT Q. Q and NOT Q cannot be equal.
+Turning on both R and S turns both Q and NOT Q off. This is known as an "invalid" case because it does not follow the definition of NOT Q. Q and NOT Q cannot be equal.
 
 There are different kinds of flip-flop loops as well. The most notable is the gated SR latch.
 
-![](http://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/SR_%28Clocked%29_Flip-flop_Diagram.svg/500px-SR_%28Clocked%29_Flip-flop_Diagram.svg.png)
+<div class="credited">
+<p><a href="http://commons.wikimedia.org/wiki/File:SR_(Clocked)_Flip-flop_Diagram.svg#mediaviewer/File:SR_(Clocked)_Flip-flop_Diagram.svg"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/SR_%28Clocked%29_Flip-flop_Diagram.svg/1200px-SR_%28Clocked%29_Flip-flop_Diagram.svg.png" alt="SR (Clocked) Flip-flop Diagram.svg"></a><br>"<a href="http://commons.wikimedia.org/wiki/File:SR_(Clocked)_Flip-flop_Diagram.svg#mediaviewer/File:SR_(Clocked)_Flip-flop_Diagram.svg">SR (Clocked) Flip-flop Diagram</a>" by <a href="//commons.wikimedia.org/wiki/User:Inductiveload" title="User:Inductiveload">Inductiveload</a> - Own Drawing in Inkscape 0.43. Licensed under Public domain via <a href="//commons.wikimedia.org/wiki/">Wikimedia Commons</a>.</p>
+</div>
 
 E is a signal that tells the flip flop that it can be set. If E is not on, R and Q do nothing.
 
@@ -41,10 +47,10 @@ If you wanted to do this 3 times, you'd do something like this:
 
     1: INDEX = 0
     2: X = 12
-    3: ADD 13 and X
-    4: MULTIPLY X and 2
-    4: INDEX = ADD INDEX and 1
-    5: IF INDEX < 3: JUMPTO 1
+    3: ADD 13 to X
+    4: MULTIPLY 2 to X
+    4: ADD 1 to INDEX
+    5: IF INDEX < 3: JUMPTO 3
 
 This would execute the instructions 3 times. Index gets incremented by one three times until INDEX >= 3.
 

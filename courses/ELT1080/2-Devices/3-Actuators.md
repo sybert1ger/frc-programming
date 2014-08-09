@@ -17,7 +17,7 @@ Speed controllers work like this:
 SIG turns on and off very quickly, and the speed controller adjusts the OUT voltage accordingly (on and off).
 
 ### Relays
-As you remember, relays turn a circuit on and off. What you probably haven't realised, however, is that the input can be a much lower voltage. This allows the user to send low-voltage signals to adjust a high voltage output. As a matter of fact, a relay diagram would look identical to the above speed controller. The only difference is that a relay is a mechanical device, where a speed controller is controlled electronically. the response time for a speed controller is much better.
+As you remember, relays turn a circuit on and off. What you probably haven't realized, however, is that the input can be a much lower voltage. This allows the user to send low-voltage signals to adjust a high voltage output. As a matter of fact, a relay diagram would look identical to the above speed controller. The only difference is that a relay is a mechanical device, where a speed controller is controlled electronically. The response time for a speed controller is much better.
 
 So, why use a relay when a speed controller does the same thing better? Mostly, it's price. Speed controllers aren't inexpensive, while relays can be very cheap. This is because relays have very little circuitry - they simply pass on a signal using an electromagnet.
 
