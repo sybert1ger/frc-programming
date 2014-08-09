@@ -174,11 +174,7 @@ courses:
         units:
         -
             unit: Calculator
-            url: /courses/CSE1110/5-Calculator/2-Activity 
-
-        -
-            unit: Calculator Activity
-            url: /courses/CSE1110/5-Calculator/2-Calculator 
+            url: /courses/CSE1110/5-Calculator/1-Activity 
 
     -
         group: Environment

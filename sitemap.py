@@ -1,4 +1,7 @@
 import sys
+print "updating sitemap..."
+
+consoleout = sys.stdout
 sys.stdout = open('_config.yml', 'w')
 
 print '''name: \"FRC West Curriculum\"
@@ -96,3 +99,6 @@ for x in sorted(glob.glob("courses/*")):
     if requirements != None:
         for r in requirements:
             print "    -    "+r
+
+sys.stdout = consoleout
+print "finished"
