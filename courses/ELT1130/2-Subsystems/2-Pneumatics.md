@@ -28,22 +28,14 @@ Motion in a pneumatic system is created by pressure somewhere in the system. Thi
 ### PSI
 PSI (Pressure per Square Inch) measures how much pressure there is in a system. PSI needs to be regulated to avoid safety hazards including explosions. Equipment is only rated for certain pressures, and higher pressures are dangerous.
 
-<table border="1">
-<tr>
-<td><b>Device</b></td>
-<td><b>Normal PSI</b></td>
-</tr>
+<table class="table table-bordered">
+    <thead>
+        <tr><th>Device</th><th>Normal PSI</th></tr>
+    </thead>
 
-<tr>
-<td>Bicycle Tire</td>
-<td>65</td>
-</tr>
-<tr>
-<td>Water Jet Cutter</td>
-<td>40,000 - 100,000</td>
-</tr>
-<tr>
-<td>Scuba tank</td>
-<td>3000</td>
-</tr>
+    <tbody>
+        <tr><td>Bicycle Tire</td><td>65</td></tr>
+        <tr><td>Water Jet Cutter</td><td>40,000 - 100,000</td></tr>
+        <tr><td>Scuba tank</td><td>3000</td></tr>
+    </tbody>
 </table>

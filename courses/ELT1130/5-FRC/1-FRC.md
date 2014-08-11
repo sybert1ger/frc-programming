@@ -13,3 +13,5 @@ Here are some useful resources for FRC specifics
     - [Team 148](http://www.youtube.com/watch?v=aCVLZFyEI1Y)
     - [Team 254](http://www.youtube.com/watch?v=HJVGgaAJefo)
     - [Team 118](http://www.youtube.com/watch?v=DojyJ9bZ4fk)
+
+A lot more resources are available [here](http://frcwest.com/resources/)

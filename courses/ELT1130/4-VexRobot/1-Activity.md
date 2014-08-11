@@ -10,4 +10,4 @@ In this activity, you will build a VEX robot that accomplishes the following tas
 
 Use a small box or basket as a goal, and try to pick up and drop balls in the box.
 
-Make a 1/2 page summary of your robot, its design and its components.
+Make a 1/2 page summary of your robot, its design and its components. Include pictures and video.

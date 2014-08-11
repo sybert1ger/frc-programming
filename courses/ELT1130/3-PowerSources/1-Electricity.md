@@ -15,4 +15,4 @@ Electricity powers
 - Solenoids (switches)
 - Sensors
 
-Even though something like gas power would be more powerful, electricity is used because of its flexibility and consistency.
+Even though something like gas could be more powerful, electricity is used because of its flexibility and consistency.

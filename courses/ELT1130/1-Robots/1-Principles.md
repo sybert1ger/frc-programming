@@ -37,13 +37,13 @@ It would be wrong to say that these principles are always adhered to, or even th
 These five principles are all very important.
 
 ### Prototype before designing
-You should always have an idea about how your ideas work in real life before choosing them. It's just impossible to know exactly how something will work in practicality. Prototyping is inexpensive, but invaluable. Every successful design starts with a simple prototype.
+You should always have an idea about how your ideas work in real life before choosing them. It's just impossible to know exactly how something will work in practicality. Prototyping is inexpensive, and invaluable. Every successful design should start with a simple prototype.
 
 ### Design before building
-Make sure your design is finalized and complete before you start building. You can end up wasting a lot of time if you don't complete designs. You design might be perfect, but that still doesn't mean you didn't forget about something that makes everything useless.
+Make sure your design is finalized and complete before you start building. You can end up wasting a lot of time if you don't complete designs. Your design might be perfect in theory, but there are so many more factors to design than completing the desired task.
 
 ### Iterate design over time
-Your designs will almost never be even *good* on the first iteration. This isn't an insult - nobody's is. The separating factor between a good and bad design is iteration. You need to constantly re-evaluate, and consider other options. Brilliant ideas don't come on the first try.
+Your designs will almost never be *good* on the first iteration. This isn't an insult - nobody has the foresight to account for everything. The separating factor between a good and bad design is iteration. You need to constantly re-evaluate, and consider other options. Brilliant ideas don't come on the first try.
 
 ### Keep things as simple as your goal allows
 This is the most commonly said, and least commonly practised principle in all of design. Of course, everyone *ideally* follows this. There's really no argument for unnecessary complexity. But over and over again, people completely neglect the power of a simple design.
@@ -51,4 +51,4 @@ This is the most commonly said, and least commonly practised principle in all of
 ### Allow for modifications
 The third principle is useful - but not when you can't make modifications. There's always a possibility that you will need to change things. If you make that process difficult or impossible, you'll be bound to your bad design. You won't have the foresight to see a lot of problems you'll face, but you *will* have the foresight to see that you might need to change things.
 
-So, what's important here? Most of this page can be summarized as **design is crucial**. Nothing will ever be more important than a robot's design. You can use the best material, strategy, program, electronics and prototypes, but without a unifying and good design, you get nowhere.
+So, what's important here? Most of this page can be summarized as "**design is crucial**". Nothing will ever be more important than a robot's design. You can use the best material, strategy, program, electronics and prototypes, but without a unifying and good design, you get nowhere.
