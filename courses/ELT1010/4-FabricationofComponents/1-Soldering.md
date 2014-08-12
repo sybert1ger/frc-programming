@@ -13,11 +13,15 @@ Here's an introduction to soldering.
 
 Part 1 - Tools you need for soldering and introduction.
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/J5Sb21qbpEQ" frameborder="0" allowfullscreen></iframe>
+<div class="video-container">
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/J5Sb21qbpEQ" frameborder="0" allowfullscreen></iframe>
+</div>
 
 Part 2 - How to solder.
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/fYz5nIHH0iY" frameborder="0" allowfullscreen></iframe>
+<div class="video-container">
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/fYz5nIHH0iY" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ## Flux
 [Flux](https://en.wikipedia.org/wiki/Flux_(metallurgy\)) is used in soldering to make solder joints clean. It prevents the metal from oxidising, since the metal is at such high temperatures. Some fluxes not only prevent oxidisation, but also provide some chemical cleaning. It's important to know what kind of flux you are using, to know what to expect.

@@ -9,14 +9,18 @@ Once you know about all of the different electronic components, how they work an
 ### Computers
 Computers rely on [transistors](http://en.wikipedia.org/wiki/Transistor). Almost like a microscopic "switch", transistors use atomic properties to store a state using non-mechanical devices. To learn more about transistors, look at this video.
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/IcrBqCFLHIY?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+<div class="video-container">
+<iframe width="100%" height="450" src="//www.youtube.com/embed/IcrBqCFLHIY" frameborder="0" allowfullscreen></iframe>
+</div>
 
 Computers use [logic gates](http://en.wikipedia.org/wiki/Logic_gate) in complex circuits to complete certain actions. [This](https://www.youtube.com/playlist?list=PL0253EC51AF4109D0) video series explains these things from the bottom-up.
 
 ### Screens
 Screens come in many different kinds. This is just one example of how screens work.
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/jiejNAUwcQ8?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+<div class="video-container">
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/jiejNAUwcQ8" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ### Household Appliances
 Most household appliances are [embedded systems](http://en.wikipedia.org/wiki/Embedded_system). Embedded systems use micro-controllers to control their functions consistently and quickly.

@@ -31,4 +31,6 @@ This is because of the convenience that mobile technology gives people. This may
 ## Networks & the Internet
 Arguably, all the previously mentioned technologies might not have had any success without the internet.
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/9hIQjrMHTv4" frameborder="0" allowfullscreen></iframe>
+<div class="video-container">
+<iframe width="100%" height="450" src="//www.youtube.com/embed/9hIQjrMHTv4" frameborder="0" allowfullscreen></iframe>
+</div>

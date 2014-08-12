@@ -7,7 +7,9 @@ layout: coursepage
 A rectifier converts Alternating Current into Direct Current. Rectifiers take many forms, including vacuum tube diodes, mercury-arc valves, copper and selenium oxide rectifiers, etc. Because by nature, AC current contains pulses of differing voltage, some devices require more than simply a rectifier for DC current. To make a steady voltage, an electronic filter is used.
 
 ## Transistors
+<div class="video-container">
 <iframe width="100%" height="450" src="//www.youtube.com/embed/IcrBqCFLHIY" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ##### Field-effect Transistor
 Field-effect transistors are basically the same as explained in the video above. See [here](http://en.wikipedia.org/wiki/Field-effect_transistor) for more information.

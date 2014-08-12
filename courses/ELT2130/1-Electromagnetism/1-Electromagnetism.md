@@ -19,5 +19,9 @@ As you likely already know, the opposite effect works as well. Moving a magnet a
 
 ![](http://www.pbs.org/wgbh/amex/edison/sfeature/images/acdc_inside_generator.gif)
 
-<iframe width="100%" height="400" src="//www.youtube.com/embed/GMnsZuEE_m8" frameborder="0" allowfullscreen></iframe>
-<iframe width="100%" height="400" src="//www.youtube.com/embed/cy6kba3A8vY" frameborder="0" allowfullscreen></iframe>
+<div class="video-container">
+<iframe width="100%" height="450" src="//www.youtube.com/embed/GMnsZuEE_m8" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="video-container">
+<iframe width="100%" height="450" src="//www.youtube.com/embed/cy6kba3A8vY" frameborder="0" allowfullscreen></iframe>
+</div>

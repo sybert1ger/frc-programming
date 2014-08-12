@@ -13,7 +13,9 @@ FRC robots are typically washing machine sized, and 100-120lbs. They are complex
 
 All of the following examples are very high calibre robots. They demonstrate the "cream of the crop" in what is possible.
 
-<iframe width="100%" height="500" src="//www.youtube.com/embed/DojyJ9bZ4fk" frameborder="0" allowfullscreen></iframe>
+<div class="video-container">
+<iframe width="100%" height="450" src="//www.youtube.com/embed/DojyJ9bZ4fk" frameborder="0" allowfullscreen></iframe>
+</div>
 
 CAD Files - [Preview](https://ccisdrobonauts.org/share/cad/2013pre.png) [Full CAD](https://ccisdrobonauts.org/share/cad/Apex_FRC118_2013_Championship_Config.zip)
 

@@ -14,7 +14,9 @@ See if you can beat our high score of 2000 (no cheating!)
 
 # Differences
 ### Functional, Imperative
-<iframe width="560" height="315" src="//www.youtube.com/embed/sqV3pL5x8PI" frameborder="0" allowfullscreen></iframe>
+<div class="video-container">
+<iframe width="100%" height="450" src="//www.youtube.com/embed/sqV3pL5x8PI" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ### Syntax
 Look at the differences of a simple printing statement between these two languages:

@@ -13,7 +13,9 @@ You can use photoelectric sensors for two things.
 
 The first option might not initially make sense. So let's look at an example.
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/JSj-OAiwRNg" frameborder="0" allowfullscreen></iframe>
+<div class="video-container">
+<iframe width="100%" height="450" src="//www.youtube.com/embed/JSj-OAiwRNg" frameborder="0" allowfullscreen></iframe>
+</div>
 
 When picking up the second ball, the robot needs to know when the ball is actually in the claw. This likely (and in this case does) uses a photoelectric sensor to check this "possession" of the ball.
 
