@@ -5,21 +5,26 @@ layout: coursepage
 
 Ohm's law is simple.
 
-![](http://upload.wikimedia.org/math/7/f/0/7f071f258dbaa6f9a41fbcb70572c316.png)
+    I = V / R
 
 where I is the current through the conductor in units of amperes, V is the potential difference measured across the conductor in units of volts, and R is the resistance of the conductor in units of ohms.
 
 This leads to the following conclusions
 
-![](http://upload.wikimedia.org/math/c/4/3/c430b90bf62600e45bd94e15f87f67c5.png)
+    V = IR or R = V / I
 
 Think of it like a triangle.
 
-![](http://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Ohm%27s_law_triangle.svg/130px-Ohm%27s_law_triangle.svg.png)
+<div class="credited">
+<p><a href="http://commons.wikimedia.org/wiki/File:Ohm%27s_law_triangle.svg#mediaviewer/File:Ohm%27s_law_triangle.svg"><img src="http://upload.wikimedia.org/wikipedia/commons/f/fb/Ohm%27s_law_triangle.svg" alt="Ohm's law triangle.svg" height="145" width="190"></a><br>"<a href="http://commons.wikimedia.org/wiki/File:Ohm%27s_law_triangle.svg#mediaviewer/File:Ohm%27s_law_triangle.svg">Ohm's law triangle</a>". Licensed under Public domain via <a href="//commons.wikimedia.org/wiki/">Wikimedia Commons</a>.</p>
+</div>
 
 So what does all of it mean? 
 
-![](http://i.imgur.com/QnY1Rbg.jpg)
+<div class="credited">
+<p><a href="http://commons.wikimedia.org/wiki/File:Ohm%27s_Law_with_Voltage_source.svg#mediaviewer/File:Ohm%27s_Law_with_Voltage_source.svg"><img src="http://upload.wikimedia.org/wikipedia/commons/7/72/Ohm%27s_Law_with_Voltage_source.svg" alt="Ohm's Law with Voltage source.svg" height="145" width="193"></a><br>"<a href="http://commons.wikimedia.org/wiki/File:Ohm%27s_Law_with_Voltage_source.svg#mediaviewer/File:Ohm%27s_Law_with_Voltage_source.svg">Ohm's Law with Voltage source</a>" by inductiveload - Own drawing.
+This <a href="//en.wikipedia.org/wiki/Vector_images" class="extiw" title="w:Vector images">vector image</a> was created with <a href="//commons.wikimedia.org/wiki/Help:Inkscape" title="Help:Inkscape">Inkscape</a>.. Licensed under Public domain via <a href="//commons.wikimedia.org/wiki/">Wikimedia Commons</a>.</p>
+</div>
 
 In this circuit, we start to understand how the elements interact with each other. Let's draw some simple conclusions.
 

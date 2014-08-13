@@ -18,7 +18,10 @@ Hall effect is the opposite effect of electromagnetism. Basically, moving a magn
 ##### Optocoupler
 Optocouplers are basically "light transistors". Effectively, they contain two parts: 1. An LED circuit 2. A phototransistor to receive light. They are mainly used as a switching device to transfer pulse signals.
 
-![](http://www.renesas.com/media/products/opto/technology/usage/images/intcircuit.gif)
+<div class="credited">
+<p><a href="http://commons.wikimedia.org/wiki/File:Optocoupler.svg#mediaviewer/File:Optocoupler.svg"><img src="http://upload.wikimedia.org/wikipedia/commons/8/89/Optocoupler.svg" alt="Optocoupler.svg" height="145" width="193"></a><br>"<a href="http://commons.wikimedia.org/wiki/File:Optocoupler.svg#mediaviewer/File:Optocoupler.svg">Optocoupler</a>". Licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0
+<p></p>">CC BY-SA 3.0</a> via <a href="//commons.wikimedia.org/wiki/">Wikimedia Commons</a>.</p>
+</div>
 
 ##### Bar Code
 Bar codes are encoded series of numbers in bars of different widths. They are scanned by simple optical sensors which detect the lines, and software decodes the numbers behind those lines.

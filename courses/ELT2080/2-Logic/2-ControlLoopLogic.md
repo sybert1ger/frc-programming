@@ -33,4 +33,8 @@ A more advanced control loop could be implemented as a pure electrical circuit. 
 
 Example:
 
-[![](http://www.ospid.com/blog/wp-content/uploads/2011/12/osPIDKitNaked.jpg)](http://www.ospid.com/blog/resources/hardware/)
+<div class="credited">
+<p><a href="http://www.ospid.com/blog/resources/hardware/"><img src="http://www.ospid.com/blog/wp-content/uploads/2011/12/osPIDKitNaked.jpg"></a></p>
+<p>"<a href="http://www.ospid.com/blog/resources/hardware/">osPID hardware</a>". Licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> via <a href="
+http://www.ospid.com/blog/">osPID</a></p>
+</div>
