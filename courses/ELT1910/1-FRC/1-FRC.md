@@ -5,23 +5,23 @@ layout: coursepage
 
 This course will be based on FRC components. Here is a basic overview of the elements of an FRC robot:
 
-- Drivetrain
+- [Drivetrain](http://www.simbotics.org/files/pdf/drivetraindesign.pdf)
     - [Wheels](http://www.andymark.com/Wheel-s/229.htm)
     - [Chain](http://www.andymark.com/SearchResults.asp?Search=chain) or [Belt](http://www.andymark.com/SearchResults.asp?Search=belt)
     - [Gearbox](http://www.andymark.com/SearchResults.asp?searching=Y&sort=5&search=gearbox)
-    - Axles
+    - [Axles](http://en.wikipedia.org/wiki/Wheel_and_axle)
 - [Frame](http://www.andymark.com/SearchResults.asp?searching=Y&sort=5&search=frame)
-- Electronics
+- [Electronics](http://wpilib.screenstepslive.com/s/3120/m/8559/l/92626-wiring-the-2014-frc-control-system)
     - [Power Distribution Board](http://www.andymark.com/product-p/am-0865.htm)
     - [cRIO](https://decibel.ni.com/content/docs/DOC-19103)
         - [Analog breakout](http://www.usfirst.org/sites/default/files/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2012_Assets/Analog%20Breakout.pdf)
         - [Digital sidecar](http://www.usfirst.org/sites/default/files/uploadedFiles/Robotics_Programs/FRC/Game_and_Season__Info/2012_Assets/Digital%20Sidecar.pdf)
-    - Speed Controllers
+    - [Speed Controllers](http://en.wikipedia.org/wiki/H_bridge)
         - [Victors](http://www.vexrobotics.com/vexpro/motor-controllers/217-2769.html)
         - [Talons](http://www.andymark.com/Talon-p/am-2505.htm)
         - [Jaguars](http://www.vexrobotics.com/vexpro/motor-controllers/217-3367.html)
     - [Bridge](http://www.andymark.com/DAP-1522-REV-B-p/am-0839.htm)
-- Motors
+- [Motors](http://www.usfirst.org/sites/default/files/uploadedImages/Robotics_Programs/FRC/Game_and_Season__Info/2014/2014_Motor_Information.pdf)
     - [CIMs](http://www.vexrobotics.com/vexpro/motor-controllers/217-2000.html)
     - [BAG](http://www.vexrobotics.com/vexpro/motor-controllers/217-3351.html)
 
@@ -46,9 +46,7 @@ Only the 2 drivers and 1 coach participate in matches. The rest of team members 
 Dr. Woodie Flowers, FIRST National Advisor and co-founder of FRC, elaborates on the significance of Gracious Professionalism in FIRST:
 
 > “FIRST celebrates high-quality, well-informed work done in a manner that leaves everyone feeling valued. Gracious Professionalism seems to be a good descriptor for a big part of the ethos of FIRST. It is one of the things that makes FIRST different and wonderful.
-
 > Gracious attitudes and behaviors are win-win. Gracious folks respect others and let that respect show in their actions. Professionals possess special knowledge and are trusted by society to use that knowledge responsibly. Thus, gracious professionals make a valued contribution in a manner pleasing to others and to themselves.
-
 > In FIRST, Gracious Professionalism means that we learn and compete like crazy, but treat one another with respect and kindness in the process. We try to avoid leaving anyone feeling like they have lost. No chest-thumping barbarian tough talk, but no sticky sweet platitudes either. Knowledge, pride and empathy comfortably blended."
 
 # Coopertition
