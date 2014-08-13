@@ -2,6 +2,8 @@
 title: ELT 2140 - Robotics 2
 layout: coursepage
 description: Robotic sensors, control and automation
+requirements:
+    - Materials for <a href="/courses/ELT2140/4-Project/1-AutomatedRoboticMovementProject/">robotic project</a>
 ---
     
 **Prerequisite:**

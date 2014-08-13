@@ -3,9 +3,7 @@ title: ELT 2180 - Process Control
 layout: coursepage
 description: Simulation of control systems; how they parameters and algorithms work
 requirements:
-    - Computer with internet access
-    - Java 7+
-    - Netbeans
+    - Java 7+ & Netbeans (<a href="/courses/ELT2180/4-Project/1-SimulationProject/">instructions</a>)
 ---
     
 **Prerequisite:**

@@ -211,8 +211,9 @@ courses:
         url: /courses/CSE1110/Tests/3-Environment
 
     requirements:
-    -    Python 2.7
-    -    Windows, Mac OSX or GNU/Linux
+    -    Computer with internet access
+    -    Python 2.7 installed locally or remotely
+    -    Text editor
 
 -
     course: CSE 1120 - Structured Programming 2
@@ -316,8 +317,9 @@ courses:
         url: /courses/CSE1120/Tests/3-IPO
 
     requirements:
-    -    Python 2.7
-    -    Windows, Mac OSX or GNU/Linux
+    -    Computer with internet access
+    -    Python 2.7 installed locally or remotely
+    -    Text editor
 
 -
     course: CSE 1240 - Robotics Programming 1
@@ -503,16 +505,8 @@ courses:
         url: /courses/ELT1010/Tests/3-FabricationofComponents
 
     requirements:
-    -    1 5V Battery or Power Generator
-    -    1 Rotational Potentiometer rated for >= 5V (ex)
-    -    1 Hall Effect Sensor rated for >= 5V (ex)
-    -    1 Magnet
-    -    1 Multimeter
-    -    1 Soldering iron
-    -    1 Roll of solder with flux inside
-    -    1 5V Battery
-    -    ~1M of ~14 Gauge wire
-    -    2 5V rated electronic devices (lights, buzzers, etc.)
+    -    Materials for <a href="/courses/ELT1010/3-Sensors/1-Activity/"<a>Sensor Activity</a>
+    -    Materials for <a href="/courses/ELT1010/3-Sensors/1-Activity/"<a>Soldering Activity</a>
 
 -
     course: ELT 1080 - Control Systems 1
@@ -588,11 +582,7 @@ courses:
         url: /courses/ELT1080/Tests/2-Devices
 
     requirements:
-    -    Battery(ies) for 5-12V
-    -    1 Potentiometer (0-12V Resistance)
-    -    1 Multimeter
-    -    1 Function Generator
-    -    1 Oscilloscope
+    -    Materials for <a href="/courses/ELT1080/3-Testing/2-Activity/"<a>Testing Activity</a>
 
 -
     course: ELT 1130 - Robotics 1
@@ -671,7 +661,7 @@ courses:
         url: /courses/ELT1130/Tests/1-Robotics
 
     requirements:
-    -    1 VEX Robotics Kit (any size/kit)
+    -    1 VEX Robotics Kit (any size/kit) (permission to use another kind of kit can be granted)
     -    Small box/basket
     -    Small balls
 
@@ -755,7 +745,7 @@ courses:
 
 
     requirements:
-    -    FRC Kit of Parts (Included in FRC registration)
+    -    FRC Kit of Parts (given to all FRC teams)
 
 -
     course: ELT 2080 - Control Systems 2
@@ -807,7 +797,7 @@ courses:
 
 
     requirements:
-    -    Supplies for a small robotic vehicle (motors, wheels, base, battery, wires, sensors)
+    -    Supplies for a small robotic vehicle (motors, wheels, base, battery, wires, sensors) (<a href="/courses/ELT2080/3-Devices/3-Activity/">activity</a>)
     -    Computer with internet access
 
 -
@@ -862,8 +852,8 @@ courses:
 
 
     requirements:
-    -    Computer with Windows, Mac or Linux
-    -    Materials needed for research project
+    -    Computer capable of running <a href="/courses/ELT2130/3-Circuits/1-ConstructingCircuits/">circuits activity</a>
+    -    Materials needed for <a href="/courses/ELT2130/4-Project/1-ResearchProject/">research project</a>
 
 -
     course: ELT 2140 - Robotics 2
@@ -926,6 +916,7 @@ courses:
 
 
     requirements:
+    -    Materials for <a href="/courses/ELT2140/4-Project/1-AutomatedRoboticMovementProject/">robotic project</a>
 
 -
     course: ELT 2180 - Process Control
@@ -980,9 +971,7 @@ courses:
 
 
     requirements:
-    -    Computer with internet access
-    -    Java 7+
-    -    Netbeans
+    -    Java 7+ & Netbeans (<a href="/courses/ELT2180/4-Project/1-SimulationProject/">instructions</a>)
 
 -
     course: ELT 2910 - ELT Project B
@@ -1014,7 +1003,7 @@ courses:
 
 
     requirements:
-    -    Registered in FRC
+    -    Registered on an FRC team
 
 -
     course: Special Projects
@@ -1032,4 +1021,4 @@ courses:
 
 
     requirements:
-    -    Registered in FRC
+    -    Registered on an FRC team

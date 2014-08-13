@@ -3,8 +3,8 @@ title: ELT 2130 - Magnetic Control Devices
 layout: coursepage
 description: Exploring electromagnetism and the devices that use its qualities
 requirements:
-    - Computer with Windows, Mac or Linux
-    - Materials needed for research project
+    - Computer capable of running <a href="/courses/ELT2130/3-Circuits/1-ConstructingCircuits/">circuits activity</a>
+    - Materials needed for <a href="/courses/ELT2130/4-Project/1-ResearchProject/">research project</a>
 ---
     
 **Prerequisite:**

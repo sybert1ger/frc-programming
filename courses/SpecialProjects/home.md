@@ -3,7 +3,7 @@ title: Special Projects
 layout: coursepage
 description: Project credits for build season hours (FRC)
 requirements:
-    - Registered in FRC
+    - Registered on an FRC team
 ---
 
 **Prerequisite:**

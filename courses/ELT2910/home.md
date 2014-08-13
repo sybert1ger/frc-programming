@@ -3,7 +3,7 @@ title: ELT 2910 - ELT Project B
 layout: coursepage
 description: CTS Project continuation of ELT1910 (use for second build season)
 requirements:
-    - Registered in FRC
+    - Registered on an FRC team
 ---
     
 **Prerequisite:**

@@ -3,7 +3,7 @@ title: ELT 2080 - Control Systems 2
 layout: coursepage
 description: Further discussion of control systems and control loops
 requirements:
-    - Supplies for a small robotic vehicle (motors, wheels, base, battery, wires, sensors)
+    - Supplies for a small robotic vehicle (motors, wheels, base, battery, wires, sensors) (<a href="/courses/ELT2080/3-Devices/3-Activity/">activity</a>)
     - Computer with internet access
 ---
     

@@ -3,8 +3,9 @@ title: CSE 1110 - Structured Programming 1
 layout: coursepage
 description: Computer Science course for introductory programming and control flow
 requirements:
-    - Python 2.7
-    - Windows, Mac OSX or GNU/Linux
+    - Computer with internet access
+    - Python 2.7 installed locally or remotely
+    - Text editor
 ---
     
 **Prerequisite:**
