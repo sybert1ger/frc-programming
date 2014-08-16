@@ -33,6 +33,6 @@ Computers simulating other computers - why do we do this? Well, usually we have 
 
 There are a variety of ways that virtual machines are implemented. We will focus on the "simulation of computers" elements of virtual machines. Other ways exist, like the Java Virtual Machine, a piece of software that emulates a standard set of ways to interact with any kind of computer. The big difference is that "simulations of computers" focus on an entire operating system running, instead of one single application.
 
-[VMWare](http://www.vmware.com/ca/en/), [VirtualBox](https://www.virtualbox.org/), etc. all provide a virtual machine to run operating systems on. They emulate the x86 architecture of computers, allowing the user to run virtually any modern operating system on them.
+[VMWare](http://www.vmware.com/ca/en/), [VirtualBox](https://www.virtualbox.org/), etc. all provide a virtual machine to run operating systems on. They emulate the x86 [and other] architecture of computers, allowing the user to run virtually any modern operating system on them.
 
 ![](http://thesystemmaster.com/images/vm_w7_under_xp.jpg)

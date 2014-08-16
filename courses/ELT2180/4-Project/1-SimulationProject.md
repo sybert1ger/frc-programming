@@ -3,7 +3,7 @@ title: Simulation Project
 layout: coursepage
 ---
 
-For your simulation project, we will do a simple robot movement simulation. This is in no way realistic, but it gives you an idea of how you can use simulation to determine real-life behaviour.
+For your simulation project, we will do a simple robot movement simulation. This is in no way realistic, but it gives you an idea of how you can use simulation to determine real-life behaviour. We understand that it is actually quite useless, but of course, a useful simulation would require a lot more complexity and programming.
 
 ####[Download](http://github.com/frc-west/tasks-simulator/releases)
 Find the "Latest release" and click the "TasksSimulator.jar" green button.
