@@ -829,12 +829,12 @@ courses:
         group: Circuits
         units:
         -
-            unit: Constructing Circuits Activity
-            url: /courses/ELT2130/3-Circuits/1-ConstructingCircuits 
+            unit: System Diagrams
+            url: /courses/ELT2130/3-Circuits/1-SystemDiagrams 
 
         -
-            unit: System Diagrams
-            url: /courses/ELT2130/3-Circuits/2-SystemDiagrams 
+            unit: Constructing Circuits Activity
+            url: /courses/ELT2130/3-Circuits/2-ConstructingCircuits 
 
     -
         group: Project

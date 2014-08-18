@@ -9,19 +9,19 @@ Circuit diagrams contain symbols for individual devices, and conductors (usually
 
 If wires connect with each other, a dot is displayed.
 
-![](http://www.learn-c.com/connected.jpg)
+![](/img/system-diagrams/1.jpg)
 
 When the conductors do not connect with each other, a "wave" on one wires shows that they do not touch.
 
-![](http://www.learn-c.com/unconnected.jpg)
+![](/img/system-diagrams/2.jpg)
 
 A manual **switch** (on-off controlled by the user) is show like this:
 
-![](http://www.learn-c.com/switch.jpg)
+![](/img/system-diagrams/3.jpg)
 
 A **resistor** is a device that applies a resistance between two conductors, resisting the flow of charge.
 
-![](http://www.learn-c.com/resistor.jpg)
+![](/img/system-diagrams/4.jpg)
 
 Resistors are measured in ohms. Usually, they are in the thousands (ie. 10K ohms).
 
@@ -29,30 +29,30 @@ For more information on Ohm's law, you should read [ELT2080](/courses/ELT2080/1-
 
 You can connect multiple resistors together. When in **series**, simply add the resistances together.
 
-![](http://www.learn-c.com/divider.gif)
+![](/img/system-diagrams/5.gif)
 
 22000 + 33 = 22033 ohms.
 
 You can also go **parallel**.
 
-![](http://www.learn-c.com/parallel.gif)
+![](/img/system-diagrams/6.gif)
 
 The value of the above parallel network is: R = 1/(1/R1 + 1/R2 + 1/R3)
 
 **Capacitors** have metal plates separated by an insulator. They temporarily store an electrical charge.
 
-![](http://www.learn-c.com/capacitor.jpg)
+![](/img/system-diagrams/7.jpg)
 
 They are measured in Farad, usually in microfarads.
 
 **Diodes** only permit the flow of charge in one direction.
 
-![](http://www.learn-c.com/diode.jpg)
+![](/img/system-diagrams/8.jpg)
 
 **Integrated circuits** are symbols used to represent a more complicated circuit.
 
-![](http://www.learn-c.com/7408.jpg)
+![](/img/system-diagrams/9.jpg)
 
 You might have studied **operational amplifiers** in [ELT2080](http://0.0.0.0:4000/courses/ELT2080/3-Devices/2-Semiconductors/).
 
-![](http://www.learn-c.com/opamp.jpg)
+![](/img/system-diagrams/10.jpg)

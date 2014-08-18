@@ -21,4 +21,4 @@ This is a classic example of old-age versus new-age. Although most people prefer
 
 If fact, electromagnetic devices like relays are still usually used for high voltage/current situations. If speed of actuation isn't a concern, they are still very cost effective - a transistor capable of the same high current would cost a lot of money.
 
-Not only actuators, sensors are also good ideas. In sensor technology, having processes be physical processes is actually sometimes preferred. This makes qualities easier to measure and diagnose. If a sensor was solely electronic without any physical pieces, it would be very difficult to diagnose and repair.
+Electromagnetic sensors are also good in certain situations. In sensor technology, having processes be physical is sometimes preferred. This makes qualities easier to measure and diagnose. If a sensor was solely electronic without any physical pieces, it would be very difficult to diagnose and repair.
