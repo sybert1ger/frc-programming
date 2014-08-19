@@ -16,11 +16,11 @@ The first option might not initially make sense. So let's look at an example.
 <div class="video-container">
 <iframe width="100%" height="450" src="//www.youtube.com/embed/JSj-OAiwRNg" frameborder="0" allowfullscreen></iframe>
 </div>
-
+<p>
 When picking up the second ball, the robot needs to know when the ball is actually in the claw. This likely (and in this case does) uses a photoelectric sensor to check this "possession" of the ball.
 
 #### Sound
-Sound sensors are harder to find direct uses for. They are not entirely useful by themselves to observe the environment. But, voice control is a very powerful tool found in a lot of modern phones. And if you are looking at simpler solutions, "tapping" or sudden noises can be used for control. By making an abrupt noise every time you want your robot to turn, you might be able to keep it on a straight path. Admittedly an inefficient solution, there still might be other more useful solutions.
+Sound sensors are harder to find direct uses for. They are not entirely useful by themselves to observe the environment. But, voice control is a very powerful tool found in a lot of modern phones. And if you are looking at simpler solutions, "tapping" or sudden noises can be used for control. By making an abrupt noise every time you want your robot to turn, you might be able to keep it on a straight path. Admittedly an inefficient solution, there still might be other more useful applications.
 
 #### Tactile
 Looking back at the first example of the two ball autonomous, a tactile sensor might be extremely useful. Instead of detecting the presence of the ball with a light, you can use a small button. The ball would press the button when inside the claw, and you have an equally effective sensor (at a much lower cost).

@@ -21,4 +21,7 @@ Commonly, fuses and breakers are used in circuits as safety measures. These will
 
 Limit switches and integrated sensors are also a common safety. You might used a sensor to detect if your air pressure is 60PSI, and have that sensor directly wire into the compressor. This would prevent the flow of electricity when air pressure reaches its limit.
 
-![](http://i48.tinypic.com/23wltx.jpg)
+<div class="credited">
+<img src="http://i48.tinypic.com/23wltx.jpg">
+<a href="http://rmhspoe.blogspot.ca/2014/05/pneumatic-fanatic.html">Pneumatic Fanatic</a> by <a href="http://rmhspoe.blogspot.ca/">Principles of Engineering at RMHS</a>
+</div>

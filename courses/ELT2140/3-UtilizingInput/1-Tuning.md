@@ -13,4 +13,6 @@ Tuning can be done in software and hardware. In software, you will often be adju
 
 Slowing things down is a common method of tuning. There is a balance to be struck between a slow system and an accurate one. You don't want it to be too slow, or too inaccurate. Slowing down works because there is more time for the system to adjust itself, without having to overshoot and other related problems.
 
-![](http://www.mathworks.com/matlabcentral/fileexchange/screenshots/2116/original.jpg)
+<div class="credited">
+<p><a href="http://commons.wikimedia.org/wiki/File:Change_with_Kp.png#mediaviewer/File:Change_with_Kp.png"><img src="http://upload.wikimedia.org/wikipedia/commons/2/2b/Change_with_Kp.png" alt="Change with Kp.png" height="366" width="466"></a><br>"<a href="http://commons.wikimedia.org/wiki/File:Change_with_Kp.png#mediaviewer/File:Change_with_Kp.png">Change with Kp</a>" by <a href="//commons.wikimedia.org/wiki/User:Skorkmaz" title="User:Skorkmaz">Skorkmaz</a> - <span class="int-own-work">Own work</span>. Licensed under Public domain via <a href="//commons.wikimedia.org/wiki/">Wikimedia Commons</a>.</p>
+</div>
