@@ -27,7 +27,9 @@ The one-way control is self explanatory, but two-way is more interesting.
 ### H-Bridge
 The two-way relay is typically designed as an "H-Bridge", because of its resemblance to the letter H.
 
-![](http://www.engg.uaeu.ac.ae/departments/units/gra/presentation/nd_05_06/Final%20Pres%20ss05.06/Final%20Pres-M/Mech/MEM2-1/website&poster/Website_template/projec15.jpg)
+<div class="credited">
+<p><a href="http://commons.wikimedia.org/wiki/File:H_bridge.svg#mediaviewer/File:H_bridge.svg"><img src="http://upload.wikimedia.org/wikipedia/commons/d/d4/H_bridge.svg" alt="H bridge.svg" height="283" width="461"></a><br>"<a href="http://commons.wikimedia.org/wiki/File:H_bridge.svg#mediaviewer/File:H_bridge.svg">H bridge</a>" by Cyril BUTTAY - <span class="int-own-work">Own work</span>. Licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a> via <a href="//commons.wikimedia.org/wiki/">Wikimedia Commons</a>.</p>
+</div>
 
 There are two directions for the voltage to flow, one forwards and one backwards.
 

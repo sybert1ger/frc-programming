@@ -21,4 +21,4 @@ Here are some examples of simulators:
 
 [On-Off Control simulator](http://www.engineers-excel.com/Apps/OnOff/Description.htm)
 
-![](http://a.fsdn.com/con/app/proj/pid-simulator/screenshots/190809.jpg)
+![](/img/pid-sim.jpg)

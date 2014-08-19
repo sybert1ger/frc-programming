@@ -35,4 +35,4 @@ There are a variety of ways that virtual machines are implemented. We will focus
 
 [VMWare](http://www.vmware.com/ca/en/), [VirtualBox](https://www.virtualbox.org/), etc. all provide a virtual machine to run operating systems on. They emulate the x86 [and other] architecture of computers, allowing the user to run virtually any modern operating system on them.
 
-![](http://thesystemmaster.com/images/vm_w7_under_xp.jpg)
+![](/img/win7.png)
