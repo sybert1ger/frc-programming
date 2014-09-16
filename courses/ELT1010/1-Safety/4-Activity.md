@@ -5,7 +5,7 @@ layout: coursepage
 
 [Safety in Electronics](/resources/Safety-in-electronics.pptx)
 
-Create a goanimate.com video story or use a software support that is equivalent.  
+Create a powtoon.com video story or use a software support that is equivalent.  
 
 Utilize the example situations in the Safety in Electronics powerpoint presentation to create your animation. You can also create your own characters or story lines.
 
