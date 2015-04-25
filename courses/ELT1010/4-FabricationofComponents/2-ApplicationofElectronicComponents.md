@@ -10,7 +10,7 @@ Once you know about all of the different electronic components, how they work an
 Computers rely on [transistors](http://en.wikipedia.org/wiki/Transistor). Almost like a microscopic "switch", transistors use atomic properties to store a state using non-mechanical devices. To learn more about transistors, look at this video.
 
 <div class="video-container">
-<iframe width="100%" height="450" src="//www.youtube.com/embed/IcrBqCFLHIY" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/IcrBqCFLHIY" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Computers use [logic gates](http://en.wikipedia.org/wiki/Logic_gate) in complex circuits to complete certain actions. [This](https://www.youtube.com/playlist?list=PL0253EC51AF4109D0) video series explains these things from the bottom-up.

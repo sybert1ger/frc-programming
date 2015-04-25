@@ -36,4 +36,4 @@ You can not adjust I by itself.
 
 Try playing around with the numbers [here](http://phet.colorado.edu/sims/html/ohms-law/latest/ohms-law_en.html).
 
-<iframe width="100%" height="400px" src="http://phet.colorado.edu/sims/html/ohms-law/latest/ohms-law_en.html"></iframe>
+<iframe width="100%" height="400px" src="https://phet.colorado.edu/sims/html/ohms-law/latest/ohms-law_en.html"></iframe>

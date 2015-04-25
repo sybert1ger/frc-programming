@@ -17,7 +17,7 @@ Disregarding some early attempts at primitive robots, the true beginning of the 
 The development of modern robots started around 1940. [Elektro](https://en.wikipedia.org/wiki/Elektro) was shown at the world fair in 1939, and was able to do many extraordinary things. He could respond to human voice commands, as well as talking in fluent sentences. Obviously this was very primitive, but was still amazing for the time. It pushed computer technology, as well as voice recognition.
 
 <div class="video-container">
-<iframe width="100%" height="450" src="//www.youtube.com/embed/T35A3g_GvSg?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/T35A3g_GvSg?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <div class="credited">

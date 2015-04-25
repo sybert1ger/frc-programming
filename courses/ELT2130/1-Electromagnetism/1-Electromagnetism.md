@@ -22,9 +22,9 @@ As electricity moves through a wire, a magnetic field is created. This is the ba
 As you likely already know, the opposite effect works as well. Moving a magnet along a wire will induce a current in that wire. That is how generators work.
 
 <div class="video-container">
-<iframe width="100%" height="450" src="//www.youtube.com/embed/GMnsZuEE_m8" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/GMnsZuEE_m8" frameborder="0" allowfullscreen></iframe>
 </div>
 <p>
 <div class="video-container">
-<iframe width="100%" height="450" src="//www.youtube.com/embed/cy6kba3A8vY" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/cy6kba3A8vY" frameborder="0" allowfullscreen></iframe>
 </div>

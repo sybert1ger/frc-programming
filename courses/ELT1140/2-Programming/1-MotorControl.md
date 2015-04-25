@@ -11,7 +11,7 @@ The second way to adjust speed is more accurate and has more torque, but require
 At the core of PWM is the signal. Although the way that the signal is interpreted is very important, it's irrelevant to PWM theory.
 
 <div class="video-container">
-<iframe width="100%" height="450" src="//www.youtube.com/embed/YmPziPfaByw?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/YmPziPfaByw?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
                         4 on - 2 off
