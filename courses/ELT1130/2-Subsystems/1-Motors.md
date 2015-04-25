@@ -19,5 +19,5 @@ See more on PWM [here](http://arduino.cc/en/Tutorial/PWM)
 Sometimes it is useful to quickly stop a motor. The way that this is done is by shorting the two ends of the motor. This reverses the polarity of the signal because the motor acts as a generator.
 
 <div class="video-container">
-<iframe width="100%" height="450" src="//www.youtube.com/embed/oz3-sPTc34c?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/oz3-sPTc34c?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>

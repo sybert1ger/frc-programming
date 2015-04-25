@@ -8,7 +8,7 @@ A rectifier converts Alternating Current into Direct Current. Rectifiers take ma
 
 ## Transistors
 <div class="video-container">
-<iframe width="100%" height="450" src="//www.youtube.com/embed/IcrBqCFLHIY" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/IcrBqCFLHIY" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ##### Field-effect Transistor

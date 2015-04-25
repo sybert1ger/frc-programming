@@ -15,7 +15,7 @@ See if you can beat our high score of 2000 (no cheating!)
 # Differences
 ### Functional, Imperative
 <div class="video-container">
-<iframe width="100%" height="450" src="//www.youtube.com/embed/sqV3pL5x8PI" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/sqV3pL5x8PI" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ### Syntax

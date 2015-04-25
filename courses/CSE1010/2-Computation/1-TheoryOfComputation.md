@@ -64,7 +64,7 @@ Essentially, we are taking 5 steps. You can ignore the reasonably simple steps, 
 
 So we would define our function using Big O notation as *`O(n)`*. This means that it will take `n` steps to complete (in simple terms).
 
-<iframe title="YouTube video player" class="youtube-player" type="text/html" width="640" height="390" src="http://www.youtube.com/embed/Ou2A-JWszVA"frameborder="0" allowFullScreen></iframe>
+<iframe title="YouTube video player" class="youtube-player" type="text/html" width="640" height="390" src="https://www.youtube.com/embed/Ou2A-JWszVA"frameborder="0" allowFullScreen></iframe>
 
 Sorting algorithms are interesting because you can compare many different ways of completing the same task.
 
