@@ -43,6 +43,6 @@ Arguably the most used virtual machine ever, the Java Virtual Machine is not onl
 
 List of languages that can be compiled and run on JVM
 
-<iframe src="http://en.wikipedia.org/wiki/List_of_JVM_languages" style="width: 100%; height: 900px"></iframe>
+<iframe src="https://en.wikipedia.org/wiki/List_of_JVM_languages" style="width: 100%; height: 900px"></iframe>
 
 A virtual machine is an application that is written and compiled for multiple platforms. It runs programs written in a specific programming language or bytecode.
