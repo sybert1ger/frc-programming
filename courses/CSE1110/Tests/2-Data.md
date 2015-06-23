@@ -60,14 +60,14 @@ If the program prints `True`, what does that tell us?
 
 ### 8. What is `x` after running this program?
 
-x = 12 % 5
-
-if x < 1:
-    x = 13.4
-elif x < 2:
-    x = 12
-else:
-    x = x * 2
+    x = 12 % 5
+    
+    if x < 1:
+        x = 13.4
+    elif x < 2:
+        x = 12
+    else:
+        x = x * 2
 
 + 12
 + 4
