@@ -12,7 +12,7 @@ courses:
 -
     course: CSE 1010 - Computer Science 1
     base: /frc-programming/courses/CSE1010
-    url: /courses/CSE1010/home
+    url: /frc-programming/courses/CSE1010/home
     desc: Introduction to computer science, no programming involved
     groups:
 
@@ -21,15 +21,15 @@ courses:
         units:
         -
             unit: Computer Architecture
-            url: /courses/CSE1010/1-ComputerScience/1-ComputerArchitecture 
+            url: /frc-programming/courses/CSE1010/1-ComputerScience/1-ComputerArchitecture 
 
         -
             unit: Processing
-            url: /courses/CSE1010/1-ComputerScience/2-Processing 
+            url: /frc-programming/courses/CSE1010/1-ComputerScience/2-Processing 
 
         -
             unit: Computers
-            url: /courses/CSE1010/1-ComputerScience/3-Computers 
+            url: /frc-programming/courses/CSE1010/1-ComputerScience/3-Computers 
 
     -
         group: Computation
