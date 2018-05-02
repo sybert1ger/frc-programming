@@ -1022,3 +1022,5 @@ courses:
 
     requirements:
     -    Registered on an FRC team
+
+theme: jekyll-theme-midnight
