@@ -4,7 +4,7 @@ description: "FRC West's Robotics Curriculum"
 url: http://www.frc-west.github.io
 
 permalink: pretty
-markdown: rdiscount
+markdown: kramdown
 
 # Site Navigation
 
