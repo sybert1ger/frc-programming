@@ -11,7 +11,7 @@ markdown: kramdown
 courses: 
 -
     course: CSE 1010 - Computer Science 1
-    base: /courses/CSE1010
+    base: /frc-programming/courses/CSE1010
     url: /courses/CSE1010/home
     desc: Introduction to computer science, no programming involved
     groups:
